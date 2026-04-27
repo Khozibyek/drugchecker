@@ -1,0 +1,101 @@
+drugbank_id,drug_name,interacts_with_id,description
+DB00007,Leuprolide,DB00285,Leuprolide may decrease the excretion rate of Venlafaxine which could result in a higher serum level.
+DB00001,Lepirudin,DB01357,The risk or severity of adverse effects can be increased when Mestranol is combined with Lepirudin.
+DB00008,Peginterferon alfa-2a,DB00315,The metabolism of Zolmitriptan can be decreased when combined with Peginterferon alfa-2a.
+DB00042,Botulinum toxin type B,DB09072,The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with Sodium oxybate.
+DB00001,Lepirudin,DB04682,The therapeutic efficacy of Lepirudin can be decreased when used in combination with Octylphenoxy polyethoxyethanol.
+DB00005,Etanercept,DB01601,The serum concentration of Etanercept can be increased when it is combined with Lopinavir.
+DB00005,Etanercept,DB00201,The metabolism of Caffeine can be increased when combined with Etanercept.
+DB00007,Leuprolide,DB00215,The risk or severity of QTc prolongation can be increased when Leuprolide is combined with Citalopram.
+DB00035,Desmopressin,DB00191,The risk or severity of hypertension can be increased when Desmopressin is combined with Phentermine.
+DB00035,Desmopressin,DB00177,Desmopressin may decrease the antihypertensive activities of Valsartan.
+DB00002,Cetuximab,DB00281,The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Lidocaine.
+DB00001,Lepirudin,DB09075,The risk or severity of bleeding can be increased when Edoxaban is combined with Lepirudin.
+DB00007,Leuprolide,DB00214,Torasemide may increase the excretion rate of Leuprolide which could result in a lower serum level and potentially a reduction in efficacy.
+DB00001,Lepirudin,DB00468,The therapeutic efficacy of Lepirudin can be increased when used in combination with Quinine.
+DB00041,Aldesleukin,DB00734,Aldesleukin may increase the hypotensive activities of Risperidone.
+DB00002,Cetuximab,DB15218,The serum concentration of Pozelimab can be decreased when it is combined with Cetuximab.
+DB00030,Insulin human,DB00082,The risk or severity of hypoglycemia can be increased when Pegvisomant is combined with Insulin human.
+DB00091,Cyclosporine,DB00177,The risk or severity of hyperkalemia can be increased when Valsartan is combined with Cyclosporine.
+DB00042,Botulinum toxin type B,DB00921,Botulinum toxin type B may increase the central nervous system depressant (CNS depressant) activities of Buprenorphine.
+DB00001,Lepirudin,DB01254,The risk or severity of bleeding and hemorrhage can be increased when Dasatinib is combined with Lepirudin.
+DB00091,Cyclosporine,DB00742,The risk or severity of nephrotoxicity can be increased when Mannitol is combined with Cyclosporine.
+DB00024,Thyrotropin alfa,DB01344,Tolevamer can cause a decrease in the absorption of Thyrotropin alfa resulting in a reduced serum concentration and potentially a decrease in efficacy.
+DB00182,Amphetamine,DB00486,The risk or severity of Tachycardia can be increased when Nabilone is combined with Amphetamine.
+DB00002,Cetuximab,DB00255,Diethylstilbestrol may increase the thrombogenic activities of Cetuximab.
+DB00187,Esmolol,DB00521,Esmolol may increase the arrhythmogenic activities of Carteolol.
+DB00080,Daptomycin,DB09118,The excretion of Daptomycin can be decreased when combined with Stiripentol.
+DB00030,Insulin human,DB00394,The risk or severity of hyperglycemia can be increased when Beclomethasone dipropionate is combined with Insulin human.
+DB00159,Icosapent,DB00180,The risk or severity of gastrointestinal irritation can be increased when Flunisolide is combined with Icosapent.
+DB00030,Insulin human,DB06655,Liraglutide may increase the hypoglycemic activities of Insulin human.
+DB00150,Tryptophan,DB00601,The risk or severity of serotonin syndrome can be increased when Linezolid is combined with Tryptophan.
+DB00001,Lepirudin,DB06605,Apixaban may increase the anticoagulant activities of Lepirudin.
+DB00091,Cyclosporine,DB09125,Potassium citrate may increase the hyperkalemic activities of Cyclosporine.
+DB00001,Lepirudin,DB01609,The risk or severity of gastrointestinal bleeding can be increased when Lepirudin is combined with Deferasirox.
+DB00082,Pegvisomant,DB00187,Pegvisomant may increase the bradycardic activities of Esmolol.
+DB00159,Icosapent,DB00177,"The risk or severity of renal failure, hyperkalemia, and hypertension can be increased when Valsartan is combined with Icosapent."
+DB00041,Aldesleukin,DB00203,The risk or severity of hypotension can be increased when Sildenafil is combined with Aldesleukin.
+DB00214,Torasemide,DB00581,The risk or severity of dehydration can be increased when Torasemide is combined with Lactulose.
+DB00136,Calcitriol,DB00310,The risk or severity of hypokalemia can be increased when Calcitriol is combined with Chlorthalidone.
+DB00005,Etanercept,DB00051,The risk or severity of infection can be increased when Adalimumab is combined with Etanercept.
+DB00007,Leuprolide,DB00358,"The risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when Leuprolide is combined with Mefloquine."
+DB00159,Icosapent,DB00218,Icosapent may increase the neuroexcitatory activities of Moxifloxacin.
+DB00091,Cyclosporine,DB01598,Cyclosporine may increase the neurotoxic activities of Imipenem.
+DB00027,Gramicidin D,DB00565,Gramicidin D may increase the neuromuscular blocking activities of Cisatracurium.
+DB00024,Thyrotropin alfa,DB00222,Thyrotropin alfa may decrease the hypoglycemic activities of Glimepiride.
+DB00041,Aldesleukin,DB00614,Furazolidone may increase the orthostatic hypotensive activities of Aldesleukin.
+DB00001,Lepirudin,DB00255,Diethylstilbestrol may decrease the anticoagulant activities of Lepirudin.
+DB00042,Botulinum toxin type B,DB00765,Botulinum toxin type B may increase the sedative activities of Metyrosine.
+DB00002,Cetuximab,DB00012,The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with Cetuximab.
+DB00180,Flunisolide,DB01108,The risk or severity of edema formation can be increased when Trilostane is combined with Flunisolide.
+DB00182,Amphetamine,DB00245,Amphetamine may decrease the sedative activities of Benzatropine.
+DB00180,Flunisolide,DB00218,The risk or severity of tendinopathy can be increased when Flunisolide is combined with Moxifloxacin.
+DB00005,Etanercept,DB00065,Etanercept may increase the immunosuppressive activities of Infliximab.
+DB00035,Desmopressin,DB13946,Testosterone undecanoate may increase the hypertensive activities of Desmopressin.
+DB00009,Alteplase,DB00177,The risk or severity of angioedema can be increased when Alteplase is combined with Valsartan.
+DB00211,Midodrine,DB00247,Methysergide may increase the hypertensive and vasoconstricting activities of Midodrine.
+DB00150,Tryptophan,DB00370,Tryptophan may increase the serotonergic activities of Mirtazapine.
+DB00042,Botulinum toxin type B,DB00575,The risk or severity of sedation can be increased when Clonidine is combined with Botulinum toxin type B.
+DB00001,Lepirudin,DB00176,The risk or severity of hemorrhage can be increased when Fluvoxamine is combined with Lepirudin.
+DB00083,Botulinum toxin type A,DB01190,The risk or severity of neuromuscular blockade can be increased when Clindamycin is combined with Botulinum toxin type A.
+DB00177,Valsartan,DB00484,Brimonidine may increase the antihypertensive activities of Valsartan.
+DB00159,Icosapent,DB00222,The protein binding of Glimepiride can be decreased when combined with Icosapent.
+DB00017,Salmon calcitonin,DB01151,The risk or severity of Cardiac Arrhythmia can be increased when Salmon calcitonin is combined with Desipramine.
+DB00007,Leuprolide,DB12016,The risk or severity of bradycardia can be increased when Ponesimod is combined with Leuprolide.
+DB00182,Amphetamine,DB06016,Cariprazine may decrease the stimulatory activities of Amphetamine.
+DB00007,Leuprolide,DB09083,Ivabradine may increase the QTc-prolonging activities of Leuprolide.
+DB00295,Morphine,DB00372,The risk or severity of hypotension and CNS depression can be increased when Thiethylperazine is combined with Morphine.
+DB00042,Botulinum toxin type B,DB00349,"The risk or severity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Botulinum toxin type B."
+DB00083,Botulinum toxin type A,DB00180,The risk or severity of myopathy and weakness can be increased when Botulinum toxin type A is combined with Flunisolide.
+DB00041,Aldesleukin,DB00271,The risk of a hypersensitivity reaction to Diatrizoate is increased when it is combined with Aldesleukin.
+DB00182,Amphetamine,DB00704,Amphetamine may increase the analgesic activities of Naltrexone.
+DB00246,Ziprasidone,DB00699,"Ziprasidone may increase the orthostatic hypotensive, hypotensive, and antihypertensive activities of Nicergoline."
+DB00008,Peginterferon alfa-2a,DB00232,The risk or severity of neutropenia and thrombocytopenia can be increased when Methyclothiazide is combined with Peginterferon alfa-2a.
+DB00002,Cetuximab,DB12532,The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Oxetacaine.
+DB00091,Cyclosporine,DB04894,The bioavailability of Cyclosporine can be decreased when combined with Vapreotide.
+DB00180,Flunisolide,DB00232,The risk or severity of electrolyte imbalance can be increased when Flunisolide is combined with Methyclothiazide.
+DB00209,Trospium,DB00470,The risk or severity of Tachycardia and drowsiness can be increased when Trospium is combined with Dronabinol.
+DB00002,Cetuximab,DB14766,The risk or severity of immunosuppression can be increased when Cetuximab is combined with Etrasimod.
+DB00178,Ramipril,DB09220,Nicorandil may increase the vasodilatory activities of Ramipril.
+DB00001,Lepirudin,DB01586,The risk or severity of bleeding and bruising can be increased when Lepirudin is combined with Ursodeoxycholic acid.
+DB00193,Tramadol,DB00455,Tramadol may increase the anticholinergic activities of Loratadine.
+DB00024,Thyrotropin alfa,DB00067,Thyrotropin alfa may increase the vasoconstricting activities of Vasopressin.
+DB00073,Rituximab,DB00515,Rituximab may increase the nephrotoxic activities of Cisplatin.
+DB00054,Abciximab,DB01296,Glucosamine may increase the antiplatelet activities of Abciximab.
+DB00091,Cyclosporine,DB00399,The risk or severity of nephrotoxicity and hypocalcemia can be increased when Cyclosporine is combined with Zoledronic acid.
+DB00176,Fluvoxamine,DB00765,The risk or severity of extrapyramidal symptoms can be increased when Metyrosine is combined with Fluvoxamine.
+DB00136,Calcitriol,DB01045,The metabolism of Calcitriol can be increased when combined with Rifampicin.
+DB00007,Leuprolide,DB09277,Leuprolide may decrease effectiveness of Choline C 11 as a diagnostic agent.
+DB00177,Valsartan,DB00275,"The risk or severity of renal failure, hypotension, and hyperkalemia can be increased when Valsartan is combined with Olmesartan."
+DB00042,Botulinum toxin type B,DB15119,The risk or severity of neuropsychiatric effects can be increased when Ropeginterferon alfa-2b is combined with Botulinum toxin type B.
+DB00042,Botulinum toxin type B,DB14881,"The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when Botulinum toxin type B is combined with Oliceridine."
+DB00042,Botulinum toxin type B,DB12193,The risk or severity of adverse effects can be increased when Ajulemic acid is combined with Botulinum toxin type B.
+DB00211,Midodrine,DB00285,Venlafaxine may increase the tachycardic activities of Midodrine.
+DB00091,Cyclosporine,DB00636,The risk or severity of renal failure can be increased when Cyclosporine is combined with Clofibrate.
+DB00005,Etanercept,DB01015,The risk or severity of myelosuppression can be increased when Sulfamethoxazole is combined with Etanercept.
+DB00042,Botulinum toxin type B,DB00683,The risk or severity of sedation and CNS depression can be increased when Midazolam is combined with Botulinum toxin type B.
+DB00007,Leuprolide,DB09149,Leuprolide may decrease the excretion rate of Florbetapir (18F) which could result in a higher serum level.
+DB00042,Botulinum toxin type B,DB13522,The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with Mebicar.
+DB00008,Peginterferon alfa-2a,DB00390,Digoxin may decrease the cardiotoxic activities of Peginterferon alfa-2a.
+DB00007,Leuprolide,DB09148,Leuprolide may decrease the excretion rate of Florbetaben (18F) which could result in a higher serum level.
+DB00180,Flunisolide,DB00310,Flunisolide may increase the hypokalemic activities of Chlorthalidone.

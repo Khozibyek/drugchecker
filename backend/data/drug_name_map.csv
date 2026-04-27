@@ -1,0 +1,261 @@
+drug_id,mn_name,inn_name
+D01,Ацетазоламид,Acetazolamide
+D02,Ацетилсалицилийн хүчил,Acetylsalicylic acid
+D03,Идэвхжүүлсэн нүүрс,Activated charcoal
+D04,Ацикловир тос,Acyclovir
+D05,Альбендазол,Albendazole
+D06,Амикацин,Amikacin
+D07,Амиодоран,Amiodarone
+D08,Амитриптилин,Amitriptyline
+D09,Амлодипин,Amlodipine
+D10,Амоксициллин,Amoxicillin
+D11,Ампициллин,Ampicillin
+D12,,Asparaginase
+D13,Атенолол,Atenolol
+D14,Атракуриум,Atracurium
+D15,Атропин,Atropine
+D16,Азатиоприн,Azathioprine
+D17,Азитромицин,Azithromycin
+D18,,BCG vaccine
+D19,,Beclometasone (Beclomethasone)
+D20,,Benzoyl peroxide
+D21,,Benzyl benzoate
+D22,,Benzylpenicillin (Penicillin G)
+D23,Бетаметазон,Betamethasone
+D24,,Biperiden
+D25,Бацитрацин/Неомицин/Полимиксин,Bleomycin
+D26,Будесонид,Budesonide
+D27,Бупивакайн,Bupivacaine
+D28,,Calamine
+D29,,Calcium
+D30,,"Calcium folinate (Folinic acid, Levoleucovorin, leucovorin)"
+D31,Капреомицин,Capreomycin
+D32,Карбамазепин,Carbamazepine
+D33,Карбидопа,Carbidopa
+D34,Цефазолин,Cefazolin
+D35,Цефтриаксон,Ceftriaxone
+D36,,Chlorambucil
+D37,Хлорамфеникол,Chloramphenicol
+D38,Хлоргексидин,Chlorhexidine
+D39,,Chloroquine
+D40,,Chlorpromazine
+D41,Циклоспорин,"Ciclosporin (Cyclosporin, Cyclosporine)"
+D42,Ципрофлоксацин,Ciprofloxacin
+D43,Цисплатин,Cisplatin
+D44,Кларитромицин,Clarithromycin
+D45,,Clavulanic Acid
+D46,Клиндамицин,Clindamycin
+D47,,Clomifene (Clomiphene)
+D48,,Clomipramine
+D49,,Clotrimazole
+D50,,Cloxacillin
+D51,КОДЕЙН,Codeine
+D52,,Copper IUD
+D53,Циклофосфамид,Cyclophosphamide
+D54,Циклоспорин,Cycloserine
+D55,Цитарабин,Cytarabine
+D56,Дакарбазин,Dacarbazine
+D57,,Dactinomycin (Actinomycin D)
+D58,Доксорубицин,Daunorubicin
+D59,Дефероксамин,Desferroxamine (Deferoxamine)
+D60,Дексаметазон,Dexamethasone
+D61,Диазепам,Diazepam
+D62,Дигоксин,Digoxin
+D63,,Dimercaprol
+D64,,Diphtheria anti-toxin
+D65,,Diphtheria vaccine
+D66,Допамин,Dopamine
+D67,Доксорубицин,Doxorubicin
+D68,Доксициклин,Doxycycline
+D69,Эналаприл,Enalapril
+D70,,Ephedrine
+D71,,Ethambutol
+D72,Дроспиренон/Этинилэстрадиол,Drospirenone/Ethinylestradiol
+D73,,Ethionamide
+D74,Этопозид,Etoposide
+D75,Фентанил,Fentanyl
+D76,,Ferrous Fumarate (Iron)
+D77,Флуконазол,Fluconazole
+D78,,Flucytosine
+D79,Флуороурацил,Fluorouracil
+D80,Дулоксетин,Fluoxetine
+D81,Флуфеназин,Fluphenazine
+D82,Фолийн хүчил,Folic Acid
+D83,Фуросемид,Furosemide
+D84,Гентамицин,Gentamicin
+D85,,Gliclazide
+D86,,Griseofulvin
+D87,,Haemophilus influenzae type b vaccine
+D88,,Haloperidol
+D89,,Halothane
+D90,Гепарин,Heparin
+D91,,Hepatitis B vaccine
+D92,,Hydralazine
+D93,Гидрохлортиазид,Hydrochlorothiazide
+D94,Гидрокортизон,Hydrocortisone
+D95,Ибупрофен,Ibuprofen
+D96,,Ifosfamide
+D97,,Influenza vaccine
+D98,,"Insulin, short acting"
+D99,,Iodine (Lugol's Iodine)
+D100,Ипратропим,Ipratropium
+D101,Изофлуран,Isoflurane
+D102,Изониазид,Isoniazid
+D103,Изосорбид динитрат,Isosorbide dinitrate
+D104,Kanamycin,Kanamycin
+D105,Кетамин,Ketamine
+D106,,Lamivudine
+D107,,Levamisole
+D108,Карбидопа/Леводопа,Carbidopa/levodopa
+D109,Левоноргестрел ,Levonorgestrel
+D110,Левотироксин,Levothyroxine
+D111,Лидокаин,"Lidocaine (Lignocaine, Xylocaine)"
+D112,Литийн карбонат,Lithium
+D113,Лозартан,Losartan
+D114,,Magnesium
+D115,Маннитол,Mannitol
+D116,,Measles vaccine
+D117,Мебендазол,Mebendazole
+D118,,Medroxyprogesterone
+D119,,Meningitis vaccine (meningococcal vaccine)
+D120,,Mercaptopurine
+D121,Месна,MESNA
+D122,Метформин,Metformin
+D123,Метотрексат,Methotrexate
+D124,Метилдопа ,Methyldopa
+D125,,Methylthionine (Methylene Blue)
+D126,Метоклопрамид,Metoclopramide
+D127,Метронидазол ,Metronidazole
+D128,Миконазол,Miconazole
+D129,Мифепристон,Mifepristone
+D130,Мисопростол,Misoprostol
+D131,Морфин,Morphine
+D132,,Mumps vaccine
+D133,,Nadroparin
+D134,,Naloxone
+D135,,Neostigmine
+D136,,Nevirapine
+D137,,Niclosamide
+D138,,Nicotine replacement therapy
+D139,Нифедипин,Nifedipine
+D140,,Nitrofurantoin
+D141,Нитроглицерин,Nitroglycerin (Glyceryl trinitrate)
+D142,Натрийн нитропруссид,Nitroprusside sodium
+D143,,Nitrous oxide (Dinitrogen oxide)
+D144,Нистатин,Nystatin
+D145,Омепразол,Omeprazole
+D146,Ондансетрон,Ondansetron
+D147,,Oxygen
+D148,Окситоцин,Oxytocin (Pitocin)
+D149,Паклитаксел,Paclitaxel
+D150,,Para-aminosalicylic acid
+D151,Пирацетам,Paracetamol (Acetaminophen)
+D152,Пенициллин,Penicillamine
+D153,,Penicillin G Benzathine
+D154,,Pertussis vaccine
+D155,Фенобарбитал,Phenobarbital
+D156,,Phenoxymethylpenicillin (penicillin V)
+D157,Пилокарпин,Pilocarpine
+D158,,Podophyllum (Podophyllin)
+D159,,Poliomyelitis vaccine (Polio vaccine)
+D160,,Potassium
+D161,Преднизолон,Prednisolone
+D162,,Procaine benzylpenicillin
+D163,Дакарбазин,Procarbazine
+D164,Пропилтиоурацил,Propylthiouracil
+D165,,Protamine
+D166,Пиразинамид,Pyrazinamide
+D167,,Rabies immunoglobulin
+D168,Ранитидин,Ranitidine
+D169,,Ribavirin (Tribavirin)
+D170,Рифампицин,Rifampicin
+D171,Рисперидон,Risperidone
+D172,Альбутерол,Salbutamol
+D173,,Salicylic acid
+D174,,Senna (Sennosides)
+D175,Мөнгөний Сульфадиазин ,Silver sulfadiazine
+D176,Симвастатин,Simvastatin
+D177,,Sodium hydrogen carbonate (Sodium bicarbonate)
+D178,,Spectinomycin
+D179,Спиронолактон,Spironolactone
+D180,,Stavudine
+D181,Стрептомицин,Streptomycin
+D182,Триметоприм/Сульфаметоксазол,Trimethoprim/Sulfamethoxazole
+D183,Сульфасалазин,Sulfasalazine (Salazosulfapyridine)
+D184,,Suxamethonium
+D185,,Tamoxifen
+D186,,Tetanus antitoxin
+D187,,Tetanus vaccine
+D188,,Tetracaine
+D189,Тетрациклин,Tetracycline
+D190,,Thiopental
+D191,,Thiosulfate
+D192,Тимолол,Timolol
+D193,,Trimethoprim
+D194,,Tropicamide
+D195,,Typhoid vaccine
+D196,Вальпройн хүчил,"Valproic acid (Sodium valproate, Valproate, Valproate semisodium)"
+D197,Ванкомицин,Vancomycin
+D198,,Vecuronium
+D199,Верапамил,Verapamil
+D200,Винкристин,Vinblastine
+D201,Винкристин,Vincristine
+D202,Ретинол,Vitamin A (Retinol)
+D203,Тиамин,Vitamin B1 (Thiamine )
+D204,Цианокобаламин,Vitamin B12 (Cobalamin)
+D205,,Vitamin B2 (Riboflavin)
+D206,Никотины хүчил ,"Vitamin B3 (Niacin, Nicotinic Acid, Nicotinamide)"
+D207,Пиридоксин,Vitamin B6 (Pyridoxine)
+D208,Аскорбины хүчил,Vitamin C (Ascorbic acid)
+D209,,"Vitamin D (Cholecalciferol, Ergocalciferol)"
+D210,,"Vitamin K (Menadione, Phytomenadione, Phytonadione)"
+D211,Варфарин,Warfarin
+D212,Ксилометазолин,Xylometazoline
+D213,,Zidovudine (Retrovir)
+D214,Альбумин,Albumin
+D215,,Aluminium
+D216,Аминокапроны хүчил,Aminocaproic acid
+D217,Аминофиллин,Aminophylline
+D218,,Anthrax immunoglobulin
+D219,,Aprotinin
+D220,,Benzoic acid
+D221,Цефподоксим,Cefuroxime
+D222,Цефподоксим,Cefuroxime
+D223,Цетиризин,Cetirizine
+D224,Хлорфенирамин,Chlorphenamine (Chlorpheniramine)
+D225,,Cinnarizine
+D226,Диклофенак,Diclofenac
+D227,,Dithranol
+D228,Дроперидол,Droperidol (Dehydrobenzoperidol)
+D229,Флуоцинолон,Fluocinolone
+D230,,Glibenclamide (Glyburide)
+D231,,Glutaraldehyde
+D232,Индометацин,Indomethacin
+D233,,Inosine
+D234,,"Insulin, long acting"
+D235,,Libeksin
+D236,,Methyltestosterone
+D237,,Multivitamin
+D238,,Нафазолин
+D239,,Ornithine
+D240,Пирацетам,Piracetam
+D241,,Plague vaccine
+D242,,Prednisone
+D243,,Procaine
+D244,Прогестерон,Progesterone
+D245,Сертралин,Sertraline
+D246,Силимарин,Silymarin
+D247,,Sulfacetamide
+D248,,Thymomodulin
+D249,Трамадол,Tramadol
+D250,,Ursodeoxycholic acid
+D251,,Vitamin B5 (Pantothenic acid)
+D252,Зуклопентиксол,Zuclopenthixol
+D253,Десмопрессин,Desmopressin
+D254,Фентерми,Phentermine
+D255,Кофеин,Caffeine
+D256,Этанерцепт,Etanercept
+D257,,
+D258,,
+D259,,
+D260,,

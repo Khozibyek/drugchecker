@@ -1,0 +1,11 @@
+drugbank_id,drug_name,interacts_with_id,description
+DB00007,Leuprolide,DB00285,Leuprolide may decrease the excretion rate of Venlafaxine which could result in a higher serum level.
+B00001,Lepirudin,DB01357,The risk or severity of adverse effects can be increased when Mestranol is combined with Lepirudin.
+DDB00008,Peginterferon alfa-2a,DB00315,The metabolism of Zolmitriptan can be decreased when combined with Peginterferon alfa-2a.
+DB00042,Botulinum toxin type B,DB09072,The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with Sodium oxybate.
+DB00001,Lepirudin,DB04682,The therapeutic efficacy of Lepirudin can be decreased when used in combination with Octylphenoxy polyethoxyethanol.
+DB00005,Etanercept,DB01601,The serum concentration of Etanercept can be increased when it is combined with Lopinavir.
+DB00005,Etanercept,DB00201,The metabolism of Caffeine can be increased when combined with Etanercept.
+DB00007,Leuprolide,DB00215,The risk or severity of QTc prolongation can be increased when Leuprolide is combined with Citalopram.
+DB00035,Desmopressin,DB00191,The risk or severity of hypertension can be increased when Desmopressin is combined with Phentermine.
+DB00035,Desmopressin,DB00177,Desmopressin may decrease the antihypertensive activities of Valsartan.

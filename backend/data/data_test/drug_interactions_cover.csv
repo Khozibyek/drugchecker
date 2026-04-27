@@ -1,0 +1,606 @@
+drugbank_id,drug_name,interacts_with_id,description
+DB00001,Lepirudin,DB06605,Apixaban may increase the anticoagulant activities of Lepirudin.
+DB00001,Lepirudin,DB01254,The risk or severity of bleeding and hemorrhage can be increased when Dasatinib is combined with Lepirudin.
+DB00001,Lepirudin,DB01609,The risk or severity of gastrointestinal bleeding can be increased when Lepirudin is combined with Deferasirox.
+DB00001,Lepirudin,DB01586,The risk or severity of bleeding and bruising can be increased when Lepirudin is combined with Ursodeoxycholic acid.
+DB00001,Lepirudin,DB09075,The risk or severity of bleeding can be increased when Edoxaban is combined with Lepirudin.
+DB00001,Lepirudin,DB00468,The therapeutic efficacy of Lepirudin can be increased when used in combination with Quinine.
+DB00001,Lepirudin,DB00255,Diethylstilbestrol may decrease the anticoagulant activities of Lepirudin.
+DB00001,Lepirudin,DB01357,The risk or severity of adverse effects can be increased when Mestranol is combined with Lepirudin.
+DB00001,Lepirudin,DB04682,The therapeutic efficacy of Lepirudin can be decreased when used in combination with Octylphenoxy polyethoxyethanol.
+DB00001,Lepirudin,DB00176,The risk or severity of hemorrhage can be increased when Fluvoxamine is combined with Lepirudin.
+DB00001,Lepirudin,DB14713,The risk or severity of thrombocytopenia can be increased when Inotersen is combined with Lepirudin.
+DB00002,Cetuximab,DB00255,Diethylstilbestrol may increase the thrombogenic activities of Cetuximab.
+DB00002,Cetuximab,DB05797,The risk or severity of adverse effects can be increased when Cetuximab is combined with TNX-901.
+DB00002,Cetuximab,DB05915,The risk or severity of adverse effects can be increased when Cetuximab is combined with MYO-029.
+DB00002,Cetuximab,DB00012,The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with Cetuximab.
+DB00002,Cetuximab,DB00281,The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Lidocaine.
+DB00002,Cetuximab,DB12532,The risk or severity of methemoglobinemia can be increased when Cetuximab is combined with Oxetacaine.
+DB00002,Cetuximab,DB15218,The serum concentration of Pozelimab can be decreased when it is combined with Cetuximab.
+DB00002,Cetuximab,DB14766,The risk or severity of immunosuppression can be increased when Cetuximab is combined with Etrasimod.
+DB00005,Etanercept,DB00065,Etanercept may increase the immunosuppressive activities of Infliximab.
+DB00005,Etanercept,DB00051,The risk or severity of infection can be increased when Adalimumab is combined with Etanercept.
+DB00005,Etanercept,DB06168,The risk or severity of infection and neutropenia can be increased when Etanercept is combined with Canakinumab.
+DB00005,Etanercept,DB01015,The risk or severity of myelosuppression can be increased when Sulfamethoxazole is combined with Etanercept.
+DB00005,Etanercept,DB00072,The risk or severity of neutropenia can be increased when Trastuzumab is combined with Etanercept.
+DB00005,Etanercept,DB04914,The therapeutic efficacy of G17DT can be decreased when used in combination with Etanercept.
+DB00005,Etanercept,DB06584,The therapeutic efficacy of TG4010 can be decreased when used in combination with Etanercept.
+DB00005,Etanercept,DB15654,The therapeutic efficacy of Moderna COVID-19 Vaccine can be decreased when used in combination with Etanercept.
+DB00005,Etanercept,DB00201,The metabolism of Caffeine can be increased when combined with Etanercept.
+DB00005,Etanercept,DB01601,The serum concentration of Etanercept can be increased when it is combined with Lopinavir.
+DB00005,Etanercept,DB17762,The therapeutic efficacy of GSK-3844766A can be decreased when used in combination with Etanercept.
+DB00007,Leuprolide,DB09083,Ivabradine may increase the QTc-prolonging activities of Leuprolide.
+DB00007,Leuprolide,DB09277,Leuprolide may decrease effectiveness of Choline C 11 as a diagnostic agent.
+DB00007,Leuprolide,DB00215,The risk or severity of QTc prolongation can be increased when Leuprolide is combined with Citalopram.
+DB00007,Leuprolide,DB00285,Leuprolide may decrease the excretion rate of Venlafaxine which could result in a higher serum level.
+DB00007,Leuprolide,DB00358,"The risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when Leuprolide is combined with Mefloquine."
+DB00007,Leuprolide,DB01001,The risk or severity of QTc prolongation can be increased when Salbutamol is combined with Leuprolide.
+DB00007,Leuprolide,DB09082,The risk or severity of QTc prolongation and ventricular arrhythmias can be increased when Vilanterol is combined with Leuprolide.
+DB00007,Leuprolide,DB11891,The risk or severity of QTc prolongation can be increased when CUDC-907 is combined with Leuprolide.
+DB00007,Leuprolide,DB09148,Leuprolide may decrease the excretion rate of Florbetaben (18F) which could result in a higher serum level.
+DB00007,Leuprolide,DB09149,Leuprolide may decrease the excretion rate of Florbetapir (18F) which could result in a higher serum level.
+DB00007,Leuprolide,DB00214,Torasemide may increase the excretion rate of Leuprolide which could result in a lower serum level and potentially a reduction in efficacy.
+DB00007,Leuprolide,DB12016,The risk or severity of bradycardia can be increased when Ponesimod is combined with Leuprolide.
+DB00007,Leuprolide,DB14766,The risk or severity of QTc prolongation and torsade de pointes can be increased when Etrasimod is combined with Leuprolide.
+DB00008,Peginterferon alfa-2a,DB00755,The risk or severity of cardiotoxicity can be increased when Peginterferon alfa-2a is combined with Tretinoin.
+DB00008,Peginterferon alfa-2a,DB08880,The risk or severity of liver damage can be increased when Peginterferon alfa-2a is combined with Teriflunomide.
+DB00008,Peginterferon alfa-2a,DB00315,The metabolism of Zolmitriptan can be decreased when combined with Peginterferon alfa-2a.
+DB00008,Peginterferon alfa-2a,DB00390,Digoxin may decrease the cardiotoxic activities of Peginterferon alfa-2a.
+DB00008,Peginterferon alfa-2a,DB13200,Peginterferon alfa-2a may increase the myelosuppressive activities of Lipegfilgrastim.
+DB00008,Peginterferon alfa-2a,DB00232,The risk or severity of neutropenia and thrombocytopenia can be increased when Methyclothiazide is combined with Peginterferon alfa-2a.
+DB00008,Peginterferon alfa-2a,DB12978,Peginterferon alfa-2a may increase the hepatotoxic activities of Pexidartinib.
+DB00009,Alteplase,DB00177,The risk or severity of angioedema can be increased when Alteplase is combined with Valsartan.
+DB00012,Darbepoetin alfa,DB00531,The risk or severity of pulmonary toxicity can be increased when Darbepoetin alfa is combined with Cyclophosphamide.
+DB00012,Darbepoetin alfa,DB01041,The risk or severity of thromboembolism can be increased when Thalidomide is combined with Darbepoetin alfa.
+DB00012,Darbepoetin alfa,DB12232,The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with KRN-7000.
+DB00012,Darbepoetin alfa,DB13104,The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with X-396.
+DB00012,Darbepoetin alfa,DB04847,The risk or severity of adverse effects can be decreased when Roxadustat is combined with Darbepoetin alfa.
+DB00017,Salmon calcitonin,DB00399,The risk or severity of hypocalcemia can be increased when Salmon calcitonin is combined with Zoledronic acid.
+DB00017,Salmon calcitonin,DB01001,Salmon calcitonin may decrease the excretion rate of Salbutamol which could result in a higher serum level.
+DB00017,Salmon calcitonin,DB01484,"The risk or severity of adverse effects can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Salmon calcitonin."
+DB00017,Salmon calcitonin,DB01151,The risk or severity of Cardiac Arrhythmia can be increased when Salmon calcitonin is combined with Desipramine.
+DB00018,Interferon alfa-n3,DB00811,The risk or severity of anemia can be increased when Interferon alfa-n3 is combined with Ribavirin.
+DB00019,Pegfilgrastim,DB00309,The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vindesine.
+DB00022,Peginterferon alfa-2b,DB01255,"The serum concentration of dextroamphetamine, an active metabolite of Lisdexamfetamine, can be increased when used in combination with Peginterferon alfa-2b."
+DB00024,Thyrotropin alfa,DB01344,Tolevamer can cause a decrease in the absorption of Thyrotropin alfa resulting in a reduced serum concentration and potentially a decrease in efficacy.
+DB00024,Thyrotropin alfa,DB09210,"The risk or severity of confusion, irritability, and sleep disorders can be increased when Thyrotropin alfa is combined with Piracetam."
+DB00024,Thyrotropin alfa,DB00067,Thyrotropin alfa may increase the vasoconstricting activities of Vasopressin.
+DB00024,Thyrotropin alfa,DB00222,Thyrotropin alfa may decrease the hypoglycemic activities of Glimepiride.
+DB00025,"Antihemophilic factor, human recombinant",DB15002,"The risk or severity of hypercoagulability can be increased when Antihemophilic factor, human recombinant is combined with Fitusiran."
+DB00027,Gramicidin D,DB00565,Gramicidin D may increase the neuromuscular blocking activities of Cisatracurium.
+DB00030,Insulin human,DB06655,Liraglutide may increase the hypoglycemic activities of Insulin human.
+DB00030,Insulin human,DB00082,The risk or severity of hypoglycemia can be increased when Pegvisomant is combined with Insulin human.
+DB00030,Insulin human,DB00412,The risk or severity of congestive heart failure can be increased when Insulin human is combined with Rosiglitazone.
+DB00030,Insulin human,DB00394,The risk or severity of hyperglycemia can be increased when Beclomethasone dipropionate is combined with Insulin human.
+DB00030,Insulin human,DB01001,The therapeutic efficacy of Insulin human can be decreased when used in combination with Salbutamol.
+DB00030,Insulin human,DB09368,The risk or severity of hyperglycemia can be increased when Corticotropin zinc hydroxide is combined with Insulin human.
+DB00035,Desmopressin,DB00176,The risk or severity of hyponatremia can be increased when Fluvoxamine is combined with Desmopressin.
+DB00035,Desmopressin,DB00177,Desmopressin may decrease the antihypertensive activities of Valsartan.
+DB00035,Desmopressin,DB00191,The risk or severity of hypertension can be increased when Desmopressin is combined with Phentermine.
+DB00035,Desmopressin,DB01484,"The risk or severity of hypertension can be increased when Desmopressin is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00035,Desmopressin,DB00321,The risk or severity of hyponatremia and water intoxication can be increased when Amitriptyline is combined with Desmopressin.
+DB00035,Desmopressin,DB00159,"The risk or severity of hypertension, hyponatremia, and water intoxication can be increased when Icosapent is combined with Desmopressin."
+DB00035,Desmopressin,DB01001,The risk or severity of hypertension can be increased when Desmopressin is combined with Salbutamol.
+DB00035,Desmopressin,DB13946,Testosterone undecanoate may increase the hypertensive activities of Desmopressin.
+DB00035,Desmopressin,DB00755,The risk or severity of elevated intracranial pressure can be increased when Desmopressin is combined with Tretinoin.
+DB00040,Glucagon,DB00193,Tramadol may increase the gastrointestinal motility reducing activities of Glucagon.
+DB00041,Aldesleukin,DB00476,The risk or severity of orthostatic hypotension and syncope can be increased when Aldesleukin is combined with Duloxetine.
+DB00041,Aldesleukin,DB01235,The risk or severity of hypotension and orthostatic hypotension can be increased when Aldesleukin is combined with Levodopa.
+DB00041,Aldesleukin,DB00734,Aldesleukin may increase the hypotensive activities of Risperidone.
+DB00041,Aldesleukin,DB00271,The risk of a hypersensitivity reaction to Diatrizoate is increased when it is combined with Aldesleukin.
+DB00041,Aldesleukin,DB00614,Furazolidone may increase the orthostatic hypotensive activities of Aldesleukin.
+DB00041,Aldesleukin,DB00203,The risk or severity of hypotension can be increased when Sildenafil is combined with Aldesleukin.
+DB00042,Botulinum toxin type B,DB00921,Botulinum toxin type B may increase the central nervous system depressant (CNS depressant) activities of Buprenorphine.
+DB00042,Botulinum toxin type B,DB00765,Botulinum toxin type B may increase the sedative activities of Metyrosine.
+DB00042,Botulinum toxin type B,DB09072,The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with Sodium oxybate.
+DB00042,Botulinum toxin type B,DB00349,"The risk or severity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Botulinum toxin type B."
+DB00042,Botulinum toxin type B,DB00683,The risk or severity of sedation and CNS depression can be increased when Midazolam is combined with Botulinum toxin type B.
+DB00042,Botulinum toxin type B,DB01484,"The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00042,Botulinum toxin type B,DB05227,The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with APD791.
+DB00042,Botulinum toxin type B,DB13522,The risk or severity of CNS depression can be increased when Botulinum toxin type B is combined with Mebicar.
+DB00042,Botulinum toxin type B,DB12193,The risk or severity of adverse effects can be increased when Ajulemic acid is combined with Botulinum toxin type B.
+DB00042,Botulinum toxin type B,DB00704,The risk or severity of respiratory depression can be increased when Naltrexone is combined with Botulinum toxin type B.
+DB00042,Botulinum toxin type B,DB00575,The risk or severity of sedation can be increased when Clonidine is combined with Botulinum toxin type B.
+DB00042,Botulinum toxin type B,DB14881,"The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when Botulinum toxin type B is combined with Oliceridine."
+DB00042,Botulinum toxin type B,DB15119,The risk or severity of neuropsychiatric effects can be increased when Ropeginterferon alfa-2b is combined with Botulinum toxin type B.
+DB00052,Somatotropin,DB00635,The serum concentration of the active metabolites of Prednisone can be reduced when Prednisone is used in combination with Somatotropin resulting in a loss in efficacy.
+DB00054,Abciximab,DB01296,Glucosamine may increase the antiplatelet activities of Abciximab.
+DB00054,Abciximab,DB14973,The risk or severity of bleeding and thrombocytopenia can be increased when Abciximab is combined with Abrocitinib.
+DB00067,Vasopressin,DB00564,The risk or severity of water intoxication can be increased when Carbamazepine is combined with Vasopressin.
+DB00067,Vasopressin,DB00328,Indomethacin may increase the cardiodepressant activities of Vasopressin.
+DB00067,Vasopressin,DB00695,Furosemide may increase the diuretic activities of Vasopressin.
+DB00067,Vasopressin,DB00176,Fluvoxamine may increase the fluid retaining and vasopressor activities of Vasopressin.
+DB00067,Vasopressin,DB00618,Demeclocycline may decrease the fluid retaining and vasopressor activities of Vasopressin.
+DB00070,Hyaluronidase (ovine),DB00281,Hyaluronidase (ovine) can cause an increase in the absorption of Lidocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.
+DB00070,Hyaluronidase (ovine),DB09368,The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Corticotropin zinc hydroxide.
+DB00072,Trastuzumab,DB00997,Trastuzumab may increase the cardiotoxic activities of Doxorubicin.
+DB00072,Trastuzumab,DB13103,The risk or severity of cardiotoxicity can be increased when Trastuzumab is combined with GPX-150.
+DB00073,Rituximab,DB00515,Rituximab may increase the nephrotoxic activities of Cisplatin.
+DB00080,Daptomycin,DB00175,The risk or severity of myopathy can be increased when Pravastatin is combined with Daptomycin.
+DB00080,Daptomycin,DB09118,The excretion of Daptomycin can be decreased when combined with Stiripentol.
+DB00082,Pegvisomant,DB00104,The risk or severity of increased transaminases can be increased when Octreotide is combined with Pegvisomant.
+DB00082,Pegvisomant,DB00187,Pegvisomant may increase the bradycardic activities of Esmolol.
+DB00083,Botulinum toxin type A,DB01190,The risk or severity of neuromuscular blockade can be increased when Clindamycin is combined with Botulinum toxin type A.
+DB00083,Botulinum toxin type A,DB00180,The risk or severity of myopathy and weakness can be increased when Botulinum toxin type A is combined with Flunisolide.
+DB00083,Botulinum toxin type A,DB09368,The risk or severity of myopathy and weakness can be increased when Botulinum toxin type A is combined with Corticotropin zinc hydroxide.
+DB00091,Cyclosporine,DB01598,Cyclosporine may increase the neurotoxic activities of Imipenem.
+DB00091,Cyclosporine,DB00742,The risk or severity of nephrotoxicity can be increased when Mannitol is combined with Cyclosporine.
+DB00091,Cyclosporine,DB00636,The risk or severity of renal failure can be increased when Cyclosporine is combined with Clofibrate.
+DB00091,Cyclosporine,DB00350,The risk or severity of Hypertrichosis can be increased when Cyclosporine is combined with Minoxidil.
+DB00091,Cyclosporine,DB04894,The bioavailability of Cyclosporine can be decreased when combined with Vapreotide.
+DB00091,Cyclosporine,DB00177,The risk or severity of hyperkalemia can be increased when Valsartan is combined with Cyclosporine.
+DB00091,Cyclosporine,DB00159,The risk or severity of renal failure and hypertension can be increased when Icosapent is combined with Cyclosporine.
+DB00091,Cyclosporine,DB00399,The risk or severity of nephrotoxicity and hypocalcemia can be increased when Cyclosporine is combined with Zoledronic acid.
+DB00091,Cyclosporine,DB09125,Potassium citrate may increase the hyperkalemic activities of Cyclosporine.
+DB00091,Cyclosporine,DB05482,The serum concentration of Cyclosporine can be increased when it is combined with 7-ethyl-10-hydroxycamptothecin.
+DB00091,Cyclosporine,DB01597,The excretion of Cyclosporine can be increased when combined with Cilastatin.
+DB00091,Cyclosporine,DB11640,The risk or severity of seizure can be increased when Cyclosporine is combined with Amifampridine.
+DB00091,Cyclosporine,DB00695,The risk or severity of gouty arthritis can be increased when Cyclosporine is combined with Furosemide.
+DB00091,Cyclosporine,DB05212,The metabolism of HE3286 can be decreased when combined with Cyclosporine.
+DB00091,Cyclosporine,DB01045,The serum concentration of Cyclosporine can be decreased when it is combined with Rifampicin.
+DB00091,Cyclosporine,DB09368,The risk or severity of adverse effects can be increased when Corticotropin zinc hydroxide is combined with Cyclosporine.
+DB00104,Octreotide,DB00813,The serum concentration of the active metabolites of Octreotide can be increased when Octreotide is used in combination with Fentanyl.
+DB00104,Octreotide,DB01001,The risk or severity of QTc prolongation can be increased when Octreotide is combined with Salbutamol.
+DB00104,Octreotide,DB00722,The bioavailability of Lisinopril can be increased when combined with Octreotide.
+DB00107,Oxytocin,DB00429,Carboprost tromethamine may increase the uterotonic activities of Oxytocin.
+DB00107,Oxytocin,DB13984,"The risk or severity of hypotension, bradycardia, and Cardiac Arrhythmia can be increased when Cyclopropane is combined with Oxytocin."
+DB00108,Natalizumab,DB09033,The risk or severity of progressive multifocal leukoencephalopathy and immunosuppression can be increased when Vedolizumab is combined with Natalizumab.
+DB00112,Bevacizumab,DB00282,The risk or severity of jaw osteonecrosis and anti-angiogenesis can be increased when Bevacizumab is combined with Pamidronic acid.
+DB00126,Ascorbic acid,DB00746,The risk or severity of Cardiovascular Impairment can be increased when Ascorbic acid is combined with Deferoxamine.
+DB00126,Ascorbic acid,DB01484,"The serum concentration of 4-Bromo-2,5-dimethoxyamphetamine can be decreased when it is combined with Ascorbic acid."
+DB00136,Calcitriol,DB01406,Danazol may increase the hypercalcemic activities of Calcitriol.
+DB00136,Calcitriol,DB00390,The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcitriol is combined with Digoxin.
+DB00136,Calcitriol,DB00232,The risk or severity of hypercalcemia can be increased when Methyclothiazide is combined with Calcitriol.
+DB00136,Calcitriol,DB00310,The risk or severity of hypokalemia can be increased when Calcitriol is combined with Chlorthalidone.
+DB00136,Calcitriol,DB01045,The metabolism of Calcitriol can be increased when combined with Rifampicin.
+DB00140,Riboflavin,DB00707,Riboflavin may increase the photosensitizing activities of Porfimer sodium.
+DB00150,Tryptophan,DB00601,The risk or severity of serotonin syndrome can be increased when Linezolid is combined with Tryptophan.
+DB00150,Tryptophan,DB00370,Tryptophan may increase the serotonergic activities of Mirtazapine.
+DB00150,Tryptophan,DB00614,The risk or severity of serotonin syndrome and hypomania can be increased when Tryptophan is combined with Furazolidone.
+DB00159,Icosapent,DB01609,The risk or severity of gastrointestinal bleeding and peptic ulcer can be increased when Icosapent is combined with Deferasirox.
+DB00159,Icosapent,DB00177,"The risk or severity of renal failure, hyperkalemia, and hypertension can be increased when Valsartan is combined with Icosapent."
+DB00159,Icosapent,DB00218,Icosapent may increase the neuroexcitatory activities of Moxifloxacin.
+DB00159,Icosapent,DB00180,The risk or severity of gastrointestinal irritation can be increased when Flunisolide is combined with Icosapent.
+DB00159,Icosapent,DB00222,The protein binding of Glimepiride can be decreased when combined with Icosapent.
+DB00159,Icosapent,DB09368,The risk or severity of gastrointestinal irritation can be increased when Corticotropin zinc hydroxide is combined with Icosapent.
+DB00162,Vitamin A,DB00313,Valproic acid may increase the Pseudotumor Cerebri activities of Vitamin A.
+DB00162,Vitamin A,DB00254,The risk or severity of pseudotumor cerebri can be increased when Vitamin A is combined with Doxycycline.
+DB00162,Vitamin A,DB00935,The absorption of Vitamin A can be decreased when combined with Oxymetazoline.
+DB00166,Lipoic acid,DB00515,The risk or severity of cytotoxicity can be decreased when Lipoic acid is combined with Cisplatin.
+DB00175,Pravastatin,DB09055,Acipimox may increase the myopathic rhabdomyolysis activities of Pravastatin.
+DB00175,Pravastatin,DB01241,"The risk or severity of rhabdomyolysis, myoglobinuria, and elevated creatine kinase (CPK) can be increased when Gemfibrozil is combined with Pravastatin."
+DB00175,Pravastatin,DB00627,The risk or severity of myopathy and rhabdomyolysis can be increased when Niacin is combined with Pravastatin.
+DB00175,Pravastatin,DB00715,The risk or severity of increased glucose can be increased when Pravastatin is combined with Paroxetine.
+DB00175,Pravastatin,DB02703,The risk or severity of rhabdomyolysis can be increased when Fusidic acid is combined with Pravastatin.
+DB00175,Pravastatin,DB09270,The risk or severity of myopathy and rhabdomyolysis can be decreased when Ubidecarenone is combined with Pravastatin.
+DB00175,Pravastatin,DB00331,Metformin may increase the hypolipidaemic activities of Pravastatin.
+DB00176,Fluvoxamine,DB00765,The risk or severity of extrapyramidal symptoms can be increased when Metyrosine is combined with Fluvoxamine.
+DB00176,Fluvoxamine,DB05227,The risk or severity of adverse effects can be increased when APD791 is combined with Fluvoxamine.
+DB00176,Fluvoxamine,DB13522,The risk or severity of adverse effects can be increased when Mebicar is combined with Fluvoxamine.
+DB00176,Fluvoxamine,DB05482,The metabolism of 7-ethyl-10-hydroxycamptothecin can be decreased when combined with Fluvoxamine.
+DB00177,Valsartan,DB08907,"The risk or severity of hypotension, hyperkalemia, and reduced intravascular volume can be increased when Canagliflozin is combined with Valsartan."
+DB00177,Valsartan,DB01001,Salbutamol may decrease the antihypertensive activities of Valsartan.
+DB00177,Valsartan,DB01484,"4-Bromo-2,5-dimethoxyamphetamine may decrease the antihypertensive activities of Valsartan."
+DB00177,Valsartan,DB00484,Brimonidine may increase the antihypertensive activities of Valsartan.
+DB00177,Valsartan,DB00275,"The risk or severity of renal failure, hypotension, and hyperkalemia can be increased when Valsartan is combined with Olmesartan."
+DB00177,Valsartan,DB00695,The risk or severity of renal failure and hypotension can be increased when Furosemide is combined with Valsartan.
+DB00177,Valsartan,DB06207,The risk or severity of orthostatic hypotension and dizziness can be increased when Valsartan is combined with Silodosin.
+DB00178,Ramipril,DB09026,"The risk or severity of hypotension, hyperkalemia, and nephrotoxicity can be increased when Aliskiren is combined with Ramipril."
+DB00178,Ramipril,DB00993,"The risk or severity of myelosuppression, anemia, and severe leukopenia can be increased when Ramipril is combined with Azathioprine."
+DB00178,Ramipril,DB09276,"The risk or severity of hypotension, nitritoid reactions, facial flushing, nausea, and vomiting can be increased when Ramipril is combined with Sodium aurothiomalate."
+DB00178,Ramipril,DB09220,Nicorandil may increase the vasodilatory activities of Ramipril.
+DB00178,Ramipril,DB00331,The risk or severity of lactic acidosis can be increased when Ramipril is combined with Metformin.
+DB00180,Flunisolide,DB01609,The risk or severity of gastrointestinal ulceration and gastrointestinal irritation can be increased when Flunisolide is combined with Deferasirox.
+DB00180,Flunisolide,DB09220,The risk or severity of ulceration can be increased when Flunisolide is combined with Nicorandil.
+DB00180,Flunisolide,DB00218,The risk or severity of tendinopathy can be increased when Flunisolide is combined with Moxifloxacin.
+DB00180,Flunisolide,DB00310,Flunisolide may increase the hypokalemic activities of Chlorthalidone.
+DB00180,Flunisolide,DB00621,The risk or severity of fluid retention can be increased when Flunisolide is combined with Oxandrolone.
+DB00180,Flunisolide,DB01108,The risk or severity of edema formation can be increased when Trilostane is combined with Flunisolide.
+DB00180,Flunisolide,DB00232,The risk or severity of electrolyte imbalance can be increased when Flunisolide is combined with Methyclothiazide.
+DB00181,Baclofen,DB01484,"Baclofen may increase the central nervous system depressant (CNS depressant) activities of 4-Bromo-2,5-dimethoxyamphetamine."
+DB00181,Baclofen,DB05227,Baclofen may increase the central nervous system depressant (CNS depressant) activities of APD791.
+DB00181,Baclofen,DB13522,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mebicar.
+DB00181,Baclofen,DB00321,The risk or severity of CNS depression and hypotonia can be increased when Baclofen is combined with Amitriptyline.
+DB00181,Baclofen,DB14507,The risk or severity of hyperkinetic symptoms can be increased when Baclofen is combined with Lithium citrate.
+DB00182,Amphetamine,DB00704,Amphetamine may increase the analgesic activities of Naltrexone.
+DB00182,Amphetamine,DB00245,Amphetamine may decrease the sedative activities of Benzatropine.
+DB00182,Amphetamine,DB06016,Cariprazine may decrease the stimulatory activities of Amphetamine.
+DB00182,Amphetamine,DB00486,The risk or severity of Tachycardia can be increased when Nabilone is combined with Amphetamine.
+DB00182,Amphetamine,DB12193,The risk or severity of Tachycardia can be increased when Ajulemic acid is combined with Amphetamine.
+DB00182,Amphetamine,DB01484,"The risk or severity of serotonin syndrome can be increased when Amphetamine is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00182,Amphetamine,DB08839,The risk or severity of serotonin syndrome can be increased when Amphetamine is combined with Serotonin.
+DB00182,Amphetamine,DB12725,The risk or severity of serotonin syndrome can be increased when Amphetamine is combined with TD-8954.
+DB00184,Nicotine,DB00640,Nicotine may increase the atrioventricular blocking (AV block) and tachycardic activities of Adenosine.
+DB00184,Nicotine,DB09271,Nicotine may decrease the anticholinergic activities of Cimetropium.
+DB00184,Nicotine,DB01484,"The risk or severity of Tachycardia can be increased when Nicotine is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00184,Nicotine,DB12193,The risk or severity of Tachycardia can be increased when Nicotine is combined with Ajulemic acid.
+DB00184,Nicotine,DB01001,The risk or severity of Tachycardia can be increased when Nicotine is combined with Salbutamol.
+DB00186,Lorazepam,DB01238,The risk or severity of sedation and orthostatic hypotension can be increased when Aripiprazole is combined with Lorazepam.
+DB00186,Lorazepam,DB04844,The risk or severity of sedation and somnolence can be increased when Lorazepam is combined with Tetrabenazine.
+DB00186,Lorazepam,DB00564,Carbamazepine may increase the Change in thyroid function activities of Lorazepam.
+DB00186,Lorazepam,DB00388,The risk or severity of hypertension can be decreased when Lorazepam is combined with Phenylephrine.
+DB00187,Esmolol,DB06709,Esmolol may increase the bronchoconstrictory activities of Methacholine.
+DB00187,Esmolol,DB01115,The risk or severity of congestive heart failure and hypotension can be increased when Nifedipine is combined with Esmolol.
+DB00187,Esmolol,DB00521,Esmolol may increase the arrhythmogenic activities of Carteolol.
+DB00187,Esmolol,DB06218,"The risk or severity of ventricular arrhythmias, bradycardia, and heart block can be increased when Esmolol is combined with Lacosamide."
+DB00187,Esmolol,DB00358,The risk or severity of QTc prolongation can be decreased when Mefloquine is combined with Esmolol.
+DB00187,Esmolol,DB13967,The risk or severity of hypersensitivity reaction can be increased when Patent Blue is combined with Esmolol.
+DB00187,Esmolol,DB01001,The therapeutic efficacy of Salbutamol can be decreased when used in combination with Esmolol.
+DB00187,Esmolol,DB01484,"The therapeutic efficacy of Esmolol can be decreased when used in combination with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00190,Carbidopa,DB06262,"The serum concentration of norepinephrine, an active metabolite of Droxidopa, can be decreased when used in combination with Carbidopa."
+DB00190,Carbidopa,DB00321,The risk or severity of hypertension and tardive dyskinesia can be increased when Carbidopa is combined with Amitriptyline.
+DB00191,Phentermine,DB01484,"The risk or severity of serotonin syndrome can be increased when Phentermine is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00193,Tramadol,DB00924,The risk or severity of serotonin syndrome and seizure can be increased when Cyclobenzaprine is combined with Tramadol.
+DB00193,Tramadol,DB08893,The risk or severity of urinary retention can be increased when Tramadol is combined with Mirabegron.
+DB00193,Tramadol,DB00761,The risk or severity of gastrointestinal ulceration can be increased when Tramadol is combined with Potassium chloride.
+DB00193,Tramadol,DB01278,The risk or severity of reduced gastrointestinal motility can be increased when Pramlintide is combined with Tramadol.
+DB00193,Tramadol,DB00273,The risk or severity of hyperthermia and oligohydrosis can be increased when Tramadol is combined with Topiramate.
+DB00193,Tramadol,DB09272,The risk or severity of constipation can be increased when Tramadol is combined with Eluxadoline.
+DB00193,Tramadol,DB00455,Tramadol may increase the anticholinergic activities of Loratadine.
+DB00193,Tramadol,DB00421,The risk or severity of orthostatic hypotension can be increased when Tramadol is combined with Spironolactone.
+DB00193,Tramadol,DB05482,The metabolism of Tramadol can be decreased when combined with 7-ethyl-10-hydroxycamptothecin.
+DB00193,Tramadol,DB12532,The metabolism of Tramadol can be decreased when combined with Oxetacaine.
+DB00193,Tramadol,DB13522,The risk or severity of CNS depression can be increased when Mebicar is combined with Tramadol.
+DB00193,Tramadol,DB05227,The risk or severity of CNS depression can be increased when APD791 is combined with Tramadol.
+DB00193,Tramadol,DB01484,"The risk or severity of serotonin syndrome can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Tramadol."
+DB00193,Tramadol,DB12725,The risk or severity of serotonin syndrome can be increased when TD-8954 is combined with Tramadol.
+DB00196,Fluconazole,DB00215,The risk or severity of QTc prolongation and serotonin syndrome can be increased when Fluconazole is combined with Citalopram.
+DB00196,Fluconazole,DB00678,"The serum concentration of E3174, an active metabolite of Losartan, can be decreased when used in combination with Fluconazole."
+DB00196,Fluconazole,DB00199,Fluconazole may increase the QTc-prolonging and arrhythmogenic activities of Erythromycin.
+DB00196,Fluconazole,DB01045,Rifampicin may increase the excretion rate of Fluconazole which could result in a lower serum level and potentially a reduction in efficacy.
+DB00197,Troglitazone,DB00230,The risk or severity of weight gain and edema formation can be increased when Pregabalin is combined with Troglitazone.
+DB00199,Erythromycin,DB01071,The risk or severity of ventricular arrhythmias and torsade de pointes can be increased when Erythromycin is combined with Mequitazine.
+DB00199,Erythromycin,DB00653,The risk or severity of QTc prolongation and hypotension can be increased when Erythromycin is combined with Magnesium sulfate.
+DB00199,Erythromycin,DB05212,The serum concentration of HE3286 can be increased when it is combined with Erythromycin.
+DB00199,Erythromycin,DB05482,The serum concentration of 7-ethyl-10-hydroxycamptothecin can be increased when it is combined with Erythromycin.
+DB00201,Caffeine,DB01009,Ketoprofen may decrease the diuretic activities of Caffeine.
+DB00201,Caffeine,DB01001,The risk or severity of hypokalemia can be increased when Caffeine is combined with Salbutamol.
+DB00202,Succinylcholine,DB00214,Torasemide may decrease the neuromuscular blocking activities of Succinylcholine.
+DB00202,Succinylcholine,DB00695,Furosemide may increase the skeletal muscle relaxing activities of Succinylcholine.
+DB00203,Sildenafil,DB00770,The risk or severity of hypotension and priapism can be increased when Sildenafil is combined with Alprostadil.
+DB00203,Sildenafil,DB00457,The risk or severity of hypotension and syncope can be increased when Sildenafil is combined with Prazosin.
+DB00203,Sildenafil,DB01045,The therapeutic efficacy of Sildenafil can be decreased when used in combination with Rifampicin.
+DB00204,Dofetilide,DB00214,"The risk or severity of QTc prolongation, torsade de pointes, hypokalemia, hypomagnesemia, and cardiac arrest can be increased when Torasemide is combined with Dofetilide."
+DB00204,Dofetilide,DB00390,The risk or severity of torsade de pointes can be increased when Dofetilide is combined with Digoxin.
+DB00206,Reserpine,DB12212,Reserpine may increase the hypotensive and bradycardic activities of Landiolol.
+DB00206,Reserpine,DB06288,Reserpine may increase the antipsychotic activities of Amisulpride.
+DB00209,Trospium,DB06204,The risk or severity of urinary retention and constipation can be increased when Trospium is combined with Tapentadol.
+DB00209,Trospium,DB00898,The risk or severity of drowsiness and CNS depression can be increased when Ethanol is combined with Trospium.
+DB00209,Trospium,DB00470,The risk or severity of Tachycardia and drowsiness can be increased when Trospium is combined with Dronabinol.
+DB00209,Trospium,DB12193,The risk or severity of Tachycardia and drowsiness can be increased when Trospium is combined with Ajulemic acid.
+DB00209,Trospium,DB14881,"The risk or severity of urinary retention, reduced gastrointestinal motility, and constipation can be increased when Trospium is combined with Oliceridine."
+DB00209,Trospium,DB14895,Trospium may increase the smooth muscle relaxing activities of Vibegron.
+DB00211,Midodrine,DB00390,"Digoxin may increase the bradycardic, atrioventricular blocking (AV block), and arrhythmogenic activities of Midodrine."
+DB00211,Midodrine,DB04836,Amineptine may increase the vasopressor activities of Midodrine.
+DB00211,Midodrine,DB00247,Methysergide may increase the hypertensive and vasoconstricting activities of Midodrine.
+DB00211,Midodrine,DB00285,Venlafaxine may increase the tachycardic activities of Midodrine.
+DB00211,Midodrine,DB00983,Midodrine may increase the sympathomimetic activities of Formoterol.
+DB00213,Pantoprazole,DB01045,Pantoprazole can cause a decrease in the absorption of Rifampicin resulting in a reduced serum concentration and potentially a decrease in efficacy.
+DB00214,Torasemide,DB00515,The risk or severity of ototoxicity and nephrotoxicity can be increased when Torasemide is combined with Cisplatin.
+DB00214,Torasemide,DB01001,The risk or severity of hypokalemia can be increased when Salbutamol is combined with Torasemide.
+DB00214,Torasemide,DB00581,The risk or severity of dehydration can be increased when Torasemide is combined with Lactulose.
+DB00214,Torasemide,DB09149,Torasemide may increase the excretion rate of Florbetapir (18F) which could result in a lower serum level and potentially a reduction in efficacy.
+DB00214,Torasemide,DB00695,The risk or severity of ototoxicity can be increased when Torasemide is combined with Furosemide.
+DB00214,Torasemide,DB09368,The risk or severity of hypokalemia can be increased when Corticotropin zinc hydroxide is combined with Torasemide.
+DB00216,Eletriptan,DB00953,The risk or severity of vasospastic reactions can be increased when Eletriptan is combined with Rizatriptan.
+DB00218,Moxifloxacin,DB09368,The risk or severity of tendinopathy can be increased when Corticotropin zinc hydroxide is combined with Moxifloxacin.
+DB00220,Nelfinavir,DB00762,The serum concentration of the active metabolites of Irinotecan can be decreased when Irinotecan is used in combination with Nelfinavir.
+DB00220,Nelfinavir,DB15104,"The serum concentration of MMAE, an active metabolite of Nelfinavir, can be increased when used in combination with Telisotuzumab vedotin."
+DB00221,Isoetharine,DB00373,Timolol may decrease the bronchodilatory activities of Isoetharine.
+DB00221,Isoetharine,DB01001,The risk or severity of adverse effects can be increased when Isoetharine is combined with Salbutamol.
+DB00224,Indinavir,DB01072,The risk or severity of hyperbilirubinemia can be increased when Atazanavir is combined with Indinavir.
+DB00228,Enflurane,DB00661,The risk or severity of myocardial depression can be increased when Verapamil is combined with Enflurane.
+DB00228,Enflurane,DB16629,The risk or severity of hypertension and Tachycardia can be increased when Serdexmethylphenidate is combined with Enflurane.
+DB00230,Pregabalin,DB01484,"The therapeutic efficacy of 4-Bromo-2,5-dimethoxyamphetamine can be increased when used in combination with Pregabalin."
+DB00230,Pregabalin,DB05227,The therapeutic efficacy of APD791 can be increased when used in combination with Pregabalin.
+DB00230,Pregabalin,DB12725,The therapeutic efficacy of TD-8954 can be increased when used in combination with Pregabalin.
+DB00230,Pregabalin,DB13522,The therapeutic efficacy of Mebicar can be increased when used in combination with Pregabalin.
+DB00232,Methyclothiazide,DB01342,Methyclothiazide may increase the hypotensive and Electrolyte Disturbance activities of Forasartan.
+DB00232,Methyclothiazide,DB00531,The risk or severity of granulocytopenia can be increased when Methyclothiazide is combined with Cyclophosphamide.
+DB00232,Methyclothiazide,DB01119,"The risk or severity of hypotension, hyperglycemia, and hyperuricemia can be increased when Methyclothiazide is combined with Diazoxide."
+DB00232,Methyclothiazide,DB00563,The protein binding of Methotrexate can be increased when combined with Methyclothiazide.
+DB00232,Methyclothiazide,DB09368,The risk or severity of electrolyte imbalance can be increased when Corticotropin zinc hydroxide is combined with Methyclothiazide.
+DB00233,Aminosalicylic acid,DB01009,The risk or severity of bleeding and gastrointestinal bleeding can be increased when Aminosalicylic acid is combined with Ketoprofen.
+DB00233,Aminosalicylic acid,DB00936,"The risk or severity of bleeding, nephrotoxicity, and gastrointestinal bleeding can be increased when Aminosalicylic acid is combined with Salicylic acid."
+DB00233,Aminosalicylic acid,DB00869,The risk or severity of metabolic acidosis can be increased when Dorzolamide is combined with Aminosalicylic acid.
+DB00233,Aminosalicylic acid,DB16901,The risk or severity of Reye's syndrome can be increased when Influenza A virus A/Norway/16606/2021 (H3N2) live (attenuated) antigen is combined with Aminosalicylic acid.
+DB00233,Aminosalicylic acid,DB01194,The risk or severity of electrolyte abnormality can be increased when Brinzolamide is combined with Aminosalicylic acid.
+DB00235,Milrinone,DB00261,"The risk or severity of congestive heart failure, bleeding, hypotension, and Tachycardia can be increased when Milrinone is combined with Anagrelide."
+DB00237,Butabarbital,DB00454,Butabarbital may increase the hypotensive and central nervous system depressant (CNS depressant) activities of Meperidine.
+DB00242,Cladribine,DB14999,The risk or severity of lymphopenia can be increased when Human interferon beta is combined with Cladribine.
+DB00242,Cladribine,DB01045,The excretion of Cladribine can be increased when combined with Rifampicin.
+DB00244,Mesalazine,DB06445,"Mesalazine may decrease the antihypertensive activities of N1,N11-Diethylnorspermine."
+DB00245,Benzatropine,DB01484,"4-Bromo-2,5-dimethoxyamphetamine may decrease the sedative activities of Benzatropine."
+DB00246,Ziprasidone,DB00699,"Ziprasidone may increase the orthostatic hypotensive, hypotensive, and antihypertensive activities of Nicergoline."
+DB00246,Ziprasidone,DB13917,Ziprasidone may decrease the hypertensive activities of Deoxyepinephrine.
+DB00246,Ziprasidone,DB12725,The risk or severity of adverse effects can be increased when TD-8954 is combined with Ziprasidone.
+DB00247,Methysergide,DB01001,Methysergide may increase the hypertensive and vasoconstricting activities of Salbutamol.
+DB00252,Phenytoin,DB01041,The risk or severity of somnolence and peripheral neuropathy can be increased when Thalidomide is combined with Phenytoin.
+DB00252,Phenytoin,DB00472,The risk or severity of Anticonvulsant Toxicity can be increased when Fluoxetine is combined with Phenytoin.
+DB00252,Phenytoin,DB00311,The risk or severity of osteomalacia can be increased when Ethoxzolamide is combined with Phenytoin.
+DB00252,Phenytoin,DB05212,The metabolism of HE3286 can be increased when combined with Phenytoin.
+DB00252,Phenytoin,DB05482,The metabolism of 7-ethyl-10-hydroxycamptothecin can be increased when combined with Phenytoin.
+DB00252,Phenytoin,DB14185,"The serum concentration of aripiprazole, an active metabolite of Phenytoin, can be decreased when used in combination with Aripiprazole lauroxil."
+DB00252,Phenytoin,DB09368,The serum concentration of Corticotropin zinc hydroxide can be decreased when it is combined with Phenytoin.
+DB00252,Phenytoin,DB18515,"The serum concentration of M1 metabolite, an active metabolite of Revumenib, can be increased when used in combination with Phenytoin."
+DB00255,Diethylstilbestrol,DB05797,Diethylstilbestrol may increase the thrombogenic activities of TNX-901.
+DB00255,Diethylstilbestrol,DB05915,Diethylstilbestrol may increase the thrombogenic activities of MYO-029.
+DB00255,Diethylstilbestrol,DB09297,The risk or severity of liver enzyme elevations can be increased when Diethylstilbestrol is combined with Paritaprevir.
+DB00255,Diethylstilbestrol,DB09368,The serum concentration of Corticotropin zinc hydroxide can be increased when it is combined with Diethylstilbestrol.
+DB00258,Calcium acetate,DB00390,Calcium acetate may increase the arrhythmogenic and cardiotoxic activities of Digoxin.
+DB00266,Dicoumarol,DB13077,The risk or severity of bleeding can be increased when LCB01-0371 is combined with Dicoumarol.
+DB00266,Dicoumarol,DB09368,Corticotropin zinc hydroxide may increase the anticoagulant activities of Dicoumarol.
+DB00268,Ropinirole,DB01484,"4-Bromo-2,5-dimethoxyamphetamine may increase the sedative activities of Ropinirole."
+DB00268,Ropinirole,DB05227,APD791 may increase the sedative activities of Ropinirole.
+DB00268,Ropinirole,DB12725,TD-8954 may increase the sedative activities of Ropinirole.
+DB00268,Ropinirole,DB13522,Mebicar may increase the sedative activities of Ropinirole.
+DB00270,Isradipine,DB00681,Isradipine may decrease the nephrotoxic activities of Amphotericin B.
+DB00277,Theophylline,DB04914,The serum concentration of Theophylline can be increased when it is combined with G17DT.
+DB00277,Theophylline,DB06584,The serum concentration of Theophylline can be increased when it is combined with TG4010.
+DB00277,Theophylline,DB15654,The serum concentration of Theophylline can be increased when it is combined with Moderna COVID-19 Vaccine.
+DB00277,Theophylline,DB17762,The serum concentration of Theophylline can be increased when it is combined with GSK-3844766A.
+DB00280,Disopyramide,DB12212,The risk or severity of bradycardia and heart block can be increased when Disopyramide is combined with Landiolol.
+DB00280,Disopyramide,DB00661,The risk or severity of sinus node depression can be increased when Verapamil is combined with Disopyramide.
+DB00281,Lidocaine,DB01118,The risk or severity of generalized seizure and bradycardia can be increased when Amiodarone is combined with Lidocaine.
+DB00281,Lidocaine,DB01045,The risk or severity of methemoglobinemia can be increased when Rifampicin is combined with Lidocaine.
+DB00281,Lidocaine,DB05482,The risk or severity of methemoglobinemia can be increased when 7-ethyl-10-hydroxycamptothecin is combined with Lidocaine.
+DB00281,Lidocaine,DB06181,The risk or severity of methemoglobinemia can be increased when IMO-2055 is combined with Lidocaine.
+DB00281,Lidocaine,DB11891,The risk or severity of methemoglobinemia can be increased when CUDC-907 is combined with Lidocaine.
+DB00281,Lidocaine,DB12232,The risk or severity of methemoglobinemia can be increased when KRN-7000 is combined with Lidocaine.
+DB00281,Lidocaine,DB12638,The risk or severity of methemoglobinemia can be increased when PU-H71 is combined with Lidocaine.
+DB00281,Lidocaine,DB13104,The risk or severity of methemoglobinemia can be increased when X-396 is combined with Lidocaine.
+DB00281,Lidocaine,DB14844,The risk or severity of methemoglobinemia can be increased when ONC-201 is combined with Lidocaine.
+DB00281,Lidocaine,DB15057,The risk or severity of methemoglobinemia can be increased when NUC-1031 is combined with Lidocaine.
+DB00281,Lidocaine,DB13077,The risk or severity of methemoglobinemia can be increased when LCB01-0371 is combined with Lidocaine.
+DB00282,Pamidronic acid,DB01609,The risk or severity of gastrointestinal bleeding and gastrointestinal ulceration can be increased when Pamidronic acid is combined with Deferasirox.
+DB00285,Venlafaxine,DB01001,Venlafaxine may increase the tachycardic activities of Salbutamol.
+DB00295,Morphine,DB01484,"4-Bromo-2,5-dimethoxyamphetamine may increase the analgesic activities of Morphine."
+DB00295,Morphine,DB00372,The risk or severity of hypotension and CNS depression can be increased when Thiethylperazine is combined with Morphine.
+DB00295,Morphine,DB12341,The therapeutic efficacy of Morphine can be decreased when used in combination with LY-2456302.
+DB00305,Mitomycin,DB00309,"The risk or severity of bronchospasm, shortness of breath, and dyspnea can be increased when Vindesine is combined with Mitomycin."
+DB00310,Chlorthalidone,DB09368,Corticotropin zinc hydroxide may increase the hypokalemic activities of Chlorthalidone.
+DB00311,Ethoxzolamide,DB01484,"Ethoxzolamide may decrease the excretion rate of 4-Bromo-2,5-dimethoxyamphetamine which could result in a higher serum level."
+DB00313,Valproic acid,DB00564,"The serum concentration of carbamazepine-10,11­ epoxide (CBZ-E), an active metabolite of Carbamazepine, can be increased when used in combination with Valproic acid."
+DB00313,Valproic acid,DB00794,"The serum concentration of Phenobarbital, an active metabolite of Primidone, can be increased when used in combination with Valproic acid."
+DB00313,Valproic acid,DB01174,"The serum concentration of Phenobarbital, an active metabolite of Phenobarbital, can be increased when used in combination with Valproic acid."
+DB00313,Valproic acid,DB02546,The risk or severity of gastrointestinal bleeding and thrombocytopenia can be increased when Valproic acid is combined with Vorinostat.
+DB00314,Capreomycin,DB01001,Salbutamol may decrease the excretion rate of Capreomycin which could result in a higher serum level.
+DB00314,Capreomycin,DB09148,Florbetaben (18F) may decrease the excretion rate of Capreomycin which could result in a higher serum level.
+DB00314,Capreomycin,DB09149,Florbetapir (18F) may decrease the excretion rate of Capreomycin which could result in a higher serum level.
+DB00314,Capreomycin,DB00695,Furosemide may increase the ototoxic activities of Capreomycin.
+DB00317,Gefitinib,DB00361,Gefitinib may increase the neutropenic activities of Vinorelbine.
+DB00321,Amitriptyline,DB00451,The risk or severity of Cardiac Arrhythmia and CNS stimulation can be increased when Levothyroxine is combined with Amitriptyline.
+DB00321,Amitriptyline,DB11447,"The serum concentration of Nortriptyline, an active metabolite of Amitriptyline, can be decreased when used in combination with Phenothiazine."
+DB00333,Methadone,DB01484,"The risk or severity of adverse effects can be increased when Methadone is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00333,Methadone,DB05227,The risk or severity of adverse effects can be increased when Methadone is combined with APD791.
+DB00333,Methadone,DB12725,The risk or severity of adverse effects can be increased when Methadone is combined with TD-8954.
+DB00333,Methadone,DB13522,The risk or severity of adverse effects can be increased when Methadone is combined with Mebicar.
+DB00343,Diltiazem,DB00575,Diltiazem may increase the atrioventricular blocking (AV block) activities of Clonidine.
+DB00344,Protriptyline,DB01484,"The therapeutic efficacy of Protriptyline can be increased when used in combination with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00349,Clobazam,DB05227,"The risk or severity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with APD791."
+DB00349,Clobazam,DB01484,"The risk or severity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00349,Clobazam,DB13522,"The risk or severity of sedation, somnolence, and CNS depression can be increased when Clobazam is combined with Mebicar."
+DB00357,Aminoglutethimide,DB09368,The therapeutic efficacy of Corticotropin zinc hydroxide can be decreased when used in combination with Aminoglutethimide.
+DB00358,Mefloquine,DB00571,The risk or severity of cardiac arrest can be increased when Propranolol is combined with Mefloquine.
+DB00363,Clozapine,DB12532,The serum concentration of Clozapine can be increased when it is combined with Oxetacaine.
+DB00366,Doxylamine,DB12725,Doxylamine may increase the central nervous system depressant (CNS depressant) activities of TD-8954.
+DB00370,Mirtazapine,DB05227,APD791 may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.
+DB00370,Mirtazapine,DB13522,Mebicar may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.
+DB00370,Mirtazapine,DB01484,"4-Bromo-2,5-dimethoxyamphetamine may increase the serotonergic activities of Mirtazapine."
+DB00372,Thiethylperazine,DB00765,The risk or severity of extrapyramidal symptoms and CNS depression can be increased when Metyrosine is combined with Thiethylperazine.
+DB00372,Thiethylperazine,DB01484,"Thiethylperazine may decrease the stimulatory activities of 4-Bromo-2,5-dimethoxyamphetamine."
+DB00372,Thiethylperazine,DB01242,"The serum concentration of desmethylclomipramine, an active metabolite of Clomipramine, can be increased when used in combination with Thiethylperazine."
+DB00373,Timolol,DB00935,The risk or severity of cardiovascular complications can be increased when Timolol is combined with Oxymetazoline.
+DB00384,Triamterene,DB00796,The risk or severity of hypotension and hyperkalemia can be increased when Candesartan cilexetil is combined with Triamterene.
+DB00388,Phenylephrine,DB09368,The risk or severity of hypertension can be increased when Corticotropin zinc hydroxide is combined with Phenylephrine.
+DB00390,Digoxin,DB01010,Edrophonium may increase the atrioventricular blocking (AV block) and arrhythmogenic activities of Digoxin.
+DB00390,Digoxin,DB01001,The serum concentration of Digoxin can be decreased when it is combined with Salbutamol.
+DB00398,Sorafenib,DB00958,The risk or severity of death can be increased when Sorafenib is combined with Carboplatin.
+DB00398,Sorafenib,DB00851,"The serum concentration of 5-amino-imidazole-4-carboxamide (AIC), an active metabolite of Dacarbazine, can be increased when used in combination with Sorafenib."
+DB00399,Zoledronic acid,DB01041,The risk or severity of jaw osteonecrosis can be increased when Thalidomide is combined with Zoledronic acid.
+DB00402,Eszopiclone,DB01484,"The risk or severity of CNS depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Eszopiclone."
+DB00402,Eszopiclone,DB12725,The risk or severity of CNS depression can be increased when TD-8954 is combined with Eszopiclone.
+DB00407,Ardeparin,DB09067,The risk or severity of hypotension and sinus node depression can be increased when Ardeparin is combined with Corticorelin ovine triflutate.
+DB00421,Spironolactone,DB01432,The risk or severity of hyperkalemia and metabolic acidosis can be increased when Cholestyramine is combined with Spironolactone.
+DB00423,Methocarbamol,DB08992,The risk or severity of visual accommodation disturbances can be increased when Eperisone is combined with Methocarbamol.
+DB00425,Zolpidem,DB01484,"4-Bromo-2,5-dimethoxyamphetamine may increase the central nervous system depressant (CNS depressant) activities of Zolpidem."
+DB00425,Zolpidem,DB12725,TD-8954 may increase the central nervous system depressant (CNS depressant) activities of Zolpidem.
+DB00425,Zolpidem,DB00458,Zolpidem may increase the Decreased alertness activities of Imipramine.
+DB00437,Allopurinol,DB06769,"The risk or severity of rash, hypersensitivity reaction, Stevens-Johnson syndrome, and Cutaneous drug reaction can be increased when Allopurinol is combined with Bendamustine."
+DB00437,Allopurinol,DB00564,The risk or severity of Stevens-Johnson syndrome can be increased when Allopurinol is combined with Carbamazepine.
+DB00442,Entecavir,DB01004,The risk or severity of cytopenia can be increased when Ganciclovir is combined with Entecavir.
+DB00448,Lansoprazole,DB00619,Lansoprazole may increase the dermatologic adverse activities of Imatinib.
+DB00450,Droperidol,DB00765,The risk or severity of sedation and extrapyramidal symptoms can be increased when Metyrosine is combined with Droperidol.
+DB00454,Meperidine,DB00601,The risk or severity of serotonin syndrome and opioid toxicity can be increased when Linezolid is combined with Meperidine.
+DB00454,Meperidine,DB00503,"The serum concentration of normeperidine, an active metabolite of Meperidine, can be increased when used in combination with Ritonavir."
+DB00459,Acitretin,DB00898,Ethanol may increase the teratogenic activities of Acitretin.
+DB00468,Quinine,DB01218,"The risk or severity of QTc prolongation, ventricular arrhythmias, torsade de pointes, and convulsion can be increased when Quinine is combined with Halofantrine."
+DB00468,Quinine,DB00932,The risk or severity of torsade de pointes and Cardiac Arrhythmia can be increased when Tipranavir is combined with Quinine.
+DB00472,Fluoxetine,DB11891,The risk or severity of QTc prolongation can be increased when Fluoxetine is combined with CUDC-907.
+DB00477,Chlorpromazine,DB01484,"The therapeutic efficacy of 4-Bromo-2,5-dimethoxyamphetamine can be decreased when used in combination with Chlorpromazine."
+DB00493,Cefotaxime,DB01061,The risk or severity of seizure and encephalopathy can be increased when Cefotaxime is combined with Azlocillin.
+DB00494,Entacapone,DB01045,The metabolism of Entacapone can be decreased when combined with Rifampicin.
+DB00497,Oxycodone,DB00614,Furazolidone may increase the serotonergic and central nervous system depressant (CNS depressant) activities of Oxycodone.
+DB00498,Phenindione,DB01045,The risk or severity of bleeding can be increased when Rifampicin is combined with Phenindione.
+DB00499,Flutamide,DB16019,Flutamide may increase effectiveness of Gallium Ga-68 gozetotide as a diagnostic agent.
+DB00502,Haloperidol,DB12725,The risk or severity of CNS depression can be increased when Haloperidol is combined with TD-8954.
+DB00502,Haloperidol,DB05212,The serum concentration of Haloperidol can be increased when it is combined with HE3286.
+DB00503,Ritonavir,DB01319,"The serum concentration of amprenavir, an active metabolite of Fosamprenavir, can be increased when used in combination with Ritonavir."
+DB00503,Ritonavir,DB12010,"The serum concentration of R406, an active metabolite of Fostamatinib, can be increased when used in combination with Ritonavir."
+DB00504,Levallorphan,DB06800,Levallorphan may increase the opioid antagonism activities of Methylnaltrexone.
+DB00515,Cisplatin,DB00695,Furosemide may increase the nephrotoxic and ototoxic activities of Cisplatin.
+DB00521,Carteolol,DB14921,The risk or severity of heart failure can be increased when Mavacamten is combined with Carteolol.
+DB00531,Cyclophosphamide,DB08879,The risk or severity of leukopenia can be increased when Belimumab is combined with Cyclophosphamide.
+DB00551,Acetohydroxamic acid,DB00898,The risk or severity of rash can be increased when Ethanol is combined with Acetohydroxamic acid.
+DB00559,Bosentan,DB01211,"The serum concentration of 14-OH-Clarithromycin, an active metabolite of Bosentan, can be increased when used in combination with Clarithromycin."
+DB00565,Cisatracurium,DB01045,Rifampicin may increase the neuromuscular blocking activities of Cisatracurium.
+DB00565,Cisatracurium,DB13077,LCB01-0371 may increase the neuromuscular blocking activities of Cisatracurium.
+DB00565,Cisatracurium,DB12532,Oxetacaine may increase the neuromuscular blocking activities of Cisatracurium.
+DB00575,Clonidine,DB01484,"The risk or severity of sedation can be increased when Clonidine is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00575,Clonidine,DB05227,The risk or severity of sedation can be increased when Clonidine is combined with APD791.
+DB00575,Clonidine,DB12725,The risk or severity of sedation can be increased when Clonidine is combined with TD-8954.
+DB00575,Clonidine,DB13522,The risk or severity of sedation can be increased when Clonidine is combined with Mebicar.
+DB00581,Lactulose,DB13077,The therapeutic efficacy of Lactulose can be decreased when used in combination with LCB01-0371.
+DB00593,Ethosuximide,DB01484,"4-Bromo-2,5-dimethoxyamphetamine can cause a decrease in the absorption of Ethosuximide resulting in a reduced serum concentration and potentially a decrease in efficacy."
+DB00601,Linezolid,DB09082,The risk or severity of hypertension and cardiovascular complications can be increased when Linezolid is combined with Vilanterol.
+DB00601,Linezolid,DB00964,Linezolid may increase the alpha-adrenergic activities of Apraclonidine.
+DB00601,Linezolid,DB01184,"The risk or severity of QTc prolongation, torsade de pointes, and cardiotoxicity can be increased when Linezolid is combined with Domperidone."
+DB00601,Linezolid,DB00968,Linezolid may decrease the hypotensive activities of Methyldopa.
+DB00604,Cisapride,DB09065,The risk or severity of QTc prolongation and Cardiac Arrhythmia can be increased when Cobicistat is combined with Cisapride.
+DB00608,Chloroquine,DB03604,The risk or severity of hypothyroidism can be increased when Chloroquine is combined with Tiratricol.
+DB00614,Furazolidone,DB08918,The risk or severity of serotonin syndrome can be decreased when Furazolidone is combined with Levomilnacipran.
+DB00614,Furazolidone,DB01484,"Furazolidone may increase the hypertensive activities of 4-Bromo-2,5-dimethoxyamphetamine."
+DB00615,Rifabutin,DB01072,"The serum concentration of 25-O-Desacetylrifabutin, an active metabolite of Rifabutin, can be increased when used in combination with Atazanavir."
+DB00621,Oxandrolone,DB09368,The risk or severity of fluid retention can be increased when Corticotropin zinc hydroxide is combined with Oxandrolone.
+DB00624,Testosterone,DB09368,The risk or severity of edema formation can be increased when Testosterone is combined with Corticotropin zinc hydroxide.
+DB00625,Efavirenz,DB01131,"The serum concentration of Cycloguanil, an active metabolite of Proguanil, can be decreased when used in combination with Efavirenz."
+DB00625,Efavirenz,DB01244,The risk or severity of ventricular arrhythmias can be increased when Efavirenz is combined with Bepridil.
+DB00633,Dexmedetomidine,DB00907,The risk or severity of seizure can be decreased when Dexmedetomidine is combined with Cocaine.
+DB00654,Latanoprost,DB00905,The risk or severity of intraocular pressure can be increased when Latanoprost is combined with Bimatoprost.
+DB00668,Epinephrine,DB01069,Promethazine may decrease the vasoconstricting activities of Epinephrine.
+DB00683,Midazolam,DB05227,The risk or severity of sedation and CNS depression can be increased when Midazolam is combined with APD791.
+DB00683,Midazolam,DB01484,"The risk or severity of sedation and CNS depression can be increased when Midazolam is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00683,Midazolam,DB13522,The risk or severity of sedation and CNS depression can be increased when Midazolam is combined with Mebicar.
+DB00695,Furosemide,DB01199,Furosemide may decrease the skeletal muscle relaxing activities of Tubocurarine.
+DB00695,Furosemide,DB00945,The risk or severity of increased serum creatinine can be increased when Acetylsalicylic acid is combined with Furosemide.
+DB00727,Nitroglycerin,DB04884,Dapoxetine may increase the orthostatic hypotensive and hypotensive activities of Nitroglycerin.
+DB00727,Nitroglycerin,DB00898,Ethanol may increase the hypotensive and vasodilatory activities of Nitroglycerin.
+DB00745,Modafinil,DB01484,"The risk or severity of hypertension can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Modafinil."
+DB00755,Tretinoin,DB01001,The risk or severity of elevated intracranial pressure can be increased when Salbutamol is combined with Tretinoin.
+DB00755,Tretinoin,DB01484,"The risk or severity of elevated intracranial pressure can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Tretinoin."
+DB00758,Clopidogrel,DB01045,The therapeutic efficacy of Clopidogrel can be increased when used in combination with Rifampicin.
+DB00758,Clopidogrel,DB06441,Cangrelor may decrease the antiplatelet activities of Clopidogrel.
+DB00794,Primidone,DB01484,"The serum concentration of Primidone can be decreased when it is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB00811,Ribavirin,DB00900,"The serum concentration of dideoxyadenosine 5’-triphosphate, an active metabolite of Didanosine, can be increased when used in combination with Ribavirin."
+DB00818,Propofol,DB01045,Rifampicin may increase the hypotensive activities of Propofol.
+DB00822,Disulfiram,DB00916,The risk or severity of psychotic reaction can be increased when Disulfiram is combined with Metronidazole.
+DB00895,Benzylpenicilloyl polylysine,DB01001,Salbutamol may decrease effectiveness of Benzylpenicilloyl polylysine as a diagnostic agent.
+DB00896,Rimexolone,DB12240,"The serum concentration of monomethyl auristatin E (MMAE), an active metabolite of Polatuzumab vedotin, can be decreased when used in combination with Rimexolone."
+DB00898,Ethanol,DB09272,Ethanol may increase the pancreatitis activities of Eluxadoline.
+DB00907,Cocaine,DB12193,Cocaine may increase the tachycardic activities of Ajulemic acid.
+DB00932,Tipranavir,DB01244,"The risk or severity of QTc prolongation, torsade de pointes, and Cardiac Arrhythmia can be increased when Tipranavir is combined with Bepridil."
+DB00945,Acetylsalicylic acid,DB09220,"The risk or severity of hemorrhage, gastrointestinal bleeding, and gastrointestinal ulceration can be increased when Acetylsalicylic acid is combined with Nicorandil."
+DB00950,Fexofenadine,DB01045,The serum concentration of Fexofenadine can be increased when it is combined with Rifampicin.
+DB00951,Isoniazid,DB09368,The serum concentration of Isoniazid can be decreased when it is combined with Corticotropin zinc hydroxide.
+DB00953,Rizatriptan,DB01233,The risk or severity of serotonin syndrome and neuroleptic malignant syndrome can be increased when Rizatriptan is combined with Metoclopramide.
+DB00969,Alosetron,DB09272,Alosetron may increase the constipating activities of Eluxadoline.
+DB00983,Formoterol,DB01001,Salbutamol may increase the sympathomimetic activities of Formoterol.
+DB00997,Doxorubicin,DB01033,Doxorubicin may increase the hepatotoxic and myelosuppressive activities of Mercaptopurine.
+DB00997,Doxorubicin,DB09270,The risk or severity of cardiotoxicity can be decreased when Ubidecarenone is combined with Doxorubicin.
+DB01001,Albuterol,DB01255,The risk or severity of hypertension can be increased when Salbutamol is combined with Lisdexamfetamine.
+DB01001,Albuterol,DB01484,"The risk or severity of hypertension can be increased when Salbutamol is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB01001,Albuterol,DB09059,The risk or severity of adverse effects can be increased when Salbutamol is combined with Atosiban.
+DB01001,Albuterol,DB09082,The risk or severity of QTc prolongation and ventricular arrhythmias can be increased when Vilanterol is combined with Salbutamol.
+DB01001,Albuterol,DB11637,Salbutamol may increase the QTc-prolonging activities of Delamanid.
+DB01001,Albuterol,DB09299,The serum concentration of Tenofovir alafenamide can be increased when it is combined with Salbutamol.
+DB01001,Albuterol,DB09148,Salbutamol may decrease the excretion rate of Florbetaben (18F) which could result in a higher serum level.
+DB01001,Albuterol,DB09149,Salbutamol may decrease the excretion rate of Florbetapir (18F) which could result in a higher serum level.
+DB01001,Albuterol,DB01226,The risk or severity of Tachycardia can be increased when Salbutamol is combined with Mivacurium.
+DB01001,Albuterol,DB12193,The risk or severity of Tachycardia can be increased when Salbutamol is combined with Ajulemic acid.
+DB01001,Albuterol,DB13946,Testosterone undecanoate may increase the hypertensive activities of Salbutamol.
+DB01001,Albuterol,DB12825,Lefamulin may increase the QTc-prolonging activities of Salbutamol.
+DB01001,Albuterol,DB12016,The risk or severity of bradycardia can be increased when Ponesimod is combined with Salbutamol.
+DB01001,Albuterol,DB14766,The risk or severity of QTc prolongation and torsade de pointes can be increased when Etrasimod is combined with Salbutamol.
+DB01004,Ganciclovir,DB01598,The risk or severity of generalized seizure can be increased when Ganciclovir is combined with Imipenem.
+DB01008,Busulfan,DB01181,The risk or severity of hemorrhagic cystitis can be increased when Busulfan is combined with Ifosfamide.
+DB01045,Rifampin,DB08860,The excretion of Pitavastatin can be decreased when combined with Rifampicin.
+DB01045,Rifampin,DB01097,"The serum concentration of teriflunomide (A77 1726), an active metabolite of Leflunomide, can be increased when used in combination with Rifampicin."
+DB01045,Rifampin,DB05212,The metabolism of HE3286 can be increased when combined with Rifampicin.
+DB01045,Rifampin,DB05482,The metabolism of 7-ethyl-10-hydroxycamptothecin can be increased when combined with Rifampicin.
+DB01045,Rifampin,DB14185,"The serum concentration of aripiprazole, an active metabolite of Rifampicin, can be decreased when used in combination with Aripiprazole lauroxil."
+DB01045,Rifampin,DB12240,The risk or severity of adverse effects can be decreased when Rifampicin is combined with Polatuzumab vedotin.
+DB01045,Rifampin,DB12978,Rifampicin may increase the hepatotoxic activities of Pexidartinib.
+DB01045,Rifampin,DB12532,The risk or severity of methemoglobinemia can be increased when Rifampicin is combined with Oxetacaine.
+DB01045,Rifampin,DB08880,The risk or severity of liver damage can be increased when Rifampicin is combined with Teriflunomide.
+DB01111,Colistimethate,DB00781,Polymyxin B may increase the nephrotoxic and neuromuscular blocking activities of Colistimethate.
+DB01127,Econazole,DB12240,"The serum concentration of monomethyl auristatin E (MMAE), an active metabolite of Polatuzumab vedotin, can be increased when used in combination with Econazole."
+DB01161,Chloroprocaine,DB12532,The risk or severity of adverse effects can be increased when Oxetacaine is combined with Chloroprocaine.
+DB01167,Itraconazole,DB11581,The risk or severity of tumor lysis syndrome can be increased when Itraconazole is combined with Venetoclax.
+DB01195,Flecainide,DB01390,Sodium bicarbonate may decrease the arrhythmogenic activities of Flecainide.
+DB01280,Nelarabine,DB05482,The risk or severity of adverse effects can be increased when Nelarabine is combined with 7-ethyl-10-hydroxycamptothecin.
+DB01280,Nelarabine,DB06181,The risk or severity of adverse effects can be increased when Nelarabine is combined with IMO-2055.
+DB01280,Nelarabine,DB06445,"The risk or severity of adverse effects can be increased when Nelarabine is combined with N1,N11-Diethylnorspermine."
+DB01280,Nelarabine,DB11688,The risk or severity of adverse effects can be increased when Nelarabine is combined with SarCNU.
+DB01280,Nelarabine,DB12232,The risk or severity of adverse effects can be increased when Nelarabine is combined with KRN-7000.
+DB01280,Nelarabine,DB13104,The risk or severity of adverse effects can be increased when Nelarabine is combined with X-396.
+DB01280,Nelarabine,DB15057,The risk or severity of adverse effects can be increased when Nelarabine is combined with NUC-1031.
+DB01323,St. John's Wort,DB06697,"The serum concentration of dihydroartemisinin, an active metabolite of Artemether, can be decreased when used in combination with St. John's Wort."
+DB01356,Lithium cation,DB06715,Potassium Iodide may increase the hypothyroid activities of Lithium cation.
+DB01364,Ephedrine,DB09368,Ephedrine may increase the excretion rate of Corticotropin zinc hydroxide which could result in a lower serum level and potentially a reduction in efficacy.
+DB01377,Magnesium oxide,DB01484,"The serum concentration of 4-Bromo-2,5-dimethoxyamphetamine can be increased when it is combined with Magnesium oxide."
+DB01377,Magnesium oxide,DB09368,The bioavailability of Corticotropin zinc hydroxide can be decreased when combined with Magnesium oxide.
+DB01484,Brolamfetamine,DB08824,"4-Bromo-2,5-dimethoxyamphetamine may decrease effectiveness of Ioflupane I-123 as a diagnostic agent."
+DB01484,Brolamfetamine,DB01625,"The risk or severity of Tachycardia can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Isopropamide."
+DB01484,Brolamfetamine,DB05227,"The risk or severity of CNS depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with APD791."
+DB01484,Brolamfetamine,DB13522,"The risk or severity of CNS depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Mebicar."
+DB01484,Brolamfetamine,DB04272,"The excretion of 4-Bromo-2,5-dimethoxyamphetamine can be decreased when combined with Citric acid."
+DB01484,Brolamfetamine,DB12193,"The risk or severity of adverse effects can be increased when Ajulemic acid is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB01484,Brolamfetamine,DB12404,"The risk or severity of sedation can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Remimazolam."
+DB01484,Brolamfetamine,DB14881,"The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Oliceridine."
+DB01484,Brolamfetamine,DB15119,"The risk or severity of neuropsychiatric effects can be increased when Ropeginterferon alfa-2b is combined with 4-Bromo-2,5-dimethoxyamphetamine."
+DB01484,Brolamfetamine,DB05087,"The risk or severity of sedation, somnolence, and CNS depression can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Ganaxolone."
+DB01609,Deferasirox,DB09368,The risk or severity of gastrointestinal ulceration and gastrointestinal irritation can be increased when Corticotropin zinc hydroxide is combined with Deferasirox.
+DB02546,Vorinostat,DB11891,The risk or severity of gastrointestinal bleeding and thrombocytopenia can be increased when CUDC-907 is combined with Vorinostat.
+DB04816,Dantron,DB09287,The risk or severity of mucosal ulceration and ischemic colitis can be increased when Polyethylene glycol is combined with Dantron.
+DB04914,G17DT Immunogen,DB14039,The risk or severity of adverse effects can be increased when Erenumab is combined with G17DT.
+DB05084,Abaloparatide,DB06445,"Abaloparatide may increase the hypotensive activities of N1,N11-Diethylnorspermine."
+DB05087,Ganaxolone,DB05227,"The risk or severity of sedation, somnolence, and CNS depression can be increased when APD791 is combined with Ganaxolone."
+DB05087,Ganaxolone,DB13522,"The risk or severity of sedation, somnolence, and CNS depression can be increased when Mebicar is combined with Ganaxolone."
+DB05212,Bezisterim,DB11642,The serum concentration of HE3286 can be decreased when it is combined with Pitolisant.
+DB05212,Bezisterim,DB11652,The metabolism of Tucatinib can be decreased when combined with HE3286.
+DB05227,Temanogrel,DB13522,The risk or severity of CNS depression can be increased when APD791 is combined with Mebicar.
+DB05227,Temanogrel,DB12193,The risk or severity of adverse effects can be increased when Ajulemic acid is combined with APD791.
+DB05227,Temanogrel,DB12141,The therapeutic efficacy of APD791 can be decreased when used in combination with Gilteritinib.
+DB05227,Temanogrel,DB12404,The risk or severity of sedation can be increased when APD791 is combined with Remimazolam.
+DB05227,Temanogrel,DB14881,"The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when APD791 is combined with Oliceridine."
+DB05227,Temanogrel,DB15119,The risk or severity of neuropsychiatric effects can be increased when Ropeginterferon alfa-2b is combined with APD791.
+DB05482,SN-38,DB11642,The serum concentration of 7-ethyl-10-hydroxycamptothecin can be decreased when it is combined with Pitolisant.
+DB05482,SN-38,DB12532,The risk or severity of methemoglobinemia can be increased when 7-ethyl-10-hydroxycamptothecin is combined with Oxetacaine.
+DB05797,Talizumab,DB05889,The risk or severity of adverse effects can be increased when TNX-901 is combined with Inotuzumab ozogamicin.
+DB05797,Talizumab,DB05915,The risk or severity of adverse effects can be increased when TNX-901 is combined with MYO-029.
+DB05797,Talizumab,DB15595,"The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with TNX-901."
+DB05797,Talizumab,DB15258,The therapeutic efficacy of TNX-901 can be decreased when used in combination with Imlifidase.
+DB05797,Talizumab,DB15218,The serum concentration of Pozelimab can be decreased when it is combined with TNX-901.
+DB05797,Talizumab,DB16257,The serum concentration of TNX-901 can be decreased when it is combined with Nipocalimab.
+DB05915,Stamulumab,DB05916,The risk or severity of adverse effects can be increased when MYO-029 is combined with CT-011.
+DB05915,Stamulumab,DB15595,"The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with MYO-029."
+DB06181,EMD-1201081,DB12532,The risk or severity of methemoglobinemia can be increased when IMO-2055 is combined with Oxetacaine.
+DB06181,EMD-1201081,DB14766,The risk or severity of immunosuppression can be increased when IMO-2055 is combined with Etrasimod.
+DB06445,Diethylnorspermine,DB06742,"The risk or severity of methemoglobinemia can be increased when N1,N11-Diethylnorspermine is combined with Ambroxol."
+DB06584,Mesmulogene ancovacivec,DB14039,The risk or severity of adverse effects can be increased when Erenumab is combined with TG4010.
+DB06709,Methacholine,DB09368,Corticotropin zinc hydroxide may decrease effectiveness of Methacholine as a diagnostic agent.
+DB06742,Ambroxol,DB11688,The risk or severity of methemoglobinemia can be increased when SarCNU is combined with Ambroxol.
+DB06800,Methylnaltrexone,DB12341,LY-2456302 may increase the opioid antagonism activities of Methylnaltrexone.
+DB08822,Azilsartan medoxomil,DB09026,Aliskiren may increase the hypotensive and hyperkalemic activities of Azilsartan medoxomil.
+DB08908,Dimethyl fumarate,DB14783,"The serum concentration of Monomethyl fumarate, an active metabolite of Diroximel fumarate, can be increased when used in combination with Dimethyl fumarate."
+DB08931,Riociguat,DB12776,E-6005 may increase the hypotensive activities of Riociguat.
+DB09148,Florbetaben F-18,DB09299,The serum concentration of Tenofovir alafenamide can be increased when it is combined with Florbetaben (18F).
+DB09148,Florbetaben F-18,DB09149,Florbetaben (18F) may decrease the excretion rate of Florbetapir (18F) which could result in a higher serum level.
+DB09149,Florbetapir F-18,DB09299,The serum concentration of Tenofovir alafenamide can be increased when it is combined with Florbetapir (18F).
+DB09220,Nicorandil,DB09368,The risk or severity of ulceration can be increased when Corticotropin zinc hydroxide is combined with Nicorandil.
+DB09266,Technetium Tc-99m tilmanocept,DB12532,Oxetacaine may decrease effectiveness of Technetium Tc-99m tilmanocept as a diagnostic agent.
+DB11637,Delamanid,DB11891,CUDC-907 may increase the QTc-prolonging activities of Delamanid.
+DB11891,Fimepinostat,DB12825,Lefamulin may increase the QTc-prolonging activities of CUDC-907.
+DB11891,Fimepinostat,DB12016,The risk or severity of bradycardia can be increased when Ponesimod is combined with CUDC-907.
+DB11891,Fimepinostat,DB12265,The risk or severity of adverse effects can be increased when CUDC-907 is combined with Fexinidazole.
+DB11891,Fimepinostat,DB12532,The risk or severity of methemoglobinemia can be increased when CUDC-907 is combined with Oxetacaine.
+DB12141,Gilteritinib,DB12725,The therapeutic efficacy of TD-8954 can be decreased when used in combination with Gilteritinib.
+DB12193,Lenabasum,DB12725,The risk or severity of adverse effects can be increased when Ajulemic acid is combined with TD-8954.
+DB12193,Lenabasum,DB13522,The risk or severity of adverse effects can be increased when Ajulemic acid is combined with Mebicar.
+DB12232,Alpha-galactosylceramide,DB12532,The risk or severity of methemoglobinemia can be increased when KRN-7000 is combined with Oxetacaine.
+DB12232,Alpha-galactosylceramide,DB14766,The risk or severity of immunosuppression can be increased when KRN-7000 is combined with Etrasimod.
+DB12404,Remimazolam,DB12725,The risk or severity of sedation can be increased when TD-8954 is combined with Remimazolam.
+DB12404,Remimazolam,DB13522,The risk or severity of sedation can be increased when Mebicar is combined with Remimazolam.
+DB12532,Oxethazaine,DB13259,The risk or severity of methemoglobinemia can be increased when Oxetacaine is combined with Ethyl chloride.
+DB12532,Oxethazaine,DB12638,The risk or severity of methemoglobinemia can be increased when PU-H71 is combined with Oxetacaine.
+DB12532,Oxethazaine,DB13104,The risk or severity of methemoglobinemia can be increased when X-396 is combined with Oxetacaine.
+DB12532,Oxethazaine,DB14844,The risk or severity of methemoglobinemia can be increased when ONC-201 is combined with Oxetacaine.
+DB12532,Oxethazaine,DB15057,The risk or severity of methemoglobinemia can be increased when NUC-1031 is combined with Oxetacaine.
+DB12532,Oxethazaine,DB13077,The risk or severity of methemoglobinemia can be increased when LCB01-0371 is combined with Oxetacaine.
+DB12725,Felcisetrag,DB14881,"The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when TD-8954 is combined with Oliceridine."
+DB13104,X-376,DB14766,The risk or severity of immunosuppression can be increased when X-396 is combined with Etrasimod.
+DB13522,Temgicoluril,DB14881,"The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when Mebicar is combined with Oliceridine."
+DB13522,Temgicoluril,DB15119,The risk or severity of neuropsychiatric effects can be increased when Ropeginterferon alfa-2b is combined with Mebicar.
+DB14039,Erenumab,DB15654,The risk or severity of adverse effects can be increased when Erenumab is combined with Moderna COVID-19 Vaccine.
+DB14039,Erenumab,DB17762,The risk or severity of adverse effects can be increased when Erenumab is combined with GSK-3844766A.
+DB14766,Etrasimod,DB15057,The risk or severity of immunosuppression can be increased when osgemcitabine palabenamide is combined with Etrasimod.

@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #0f172a;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  /* iOS scroll bounce хасах */
+  overscroll-behavior: none;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-inter), Arial, sans-serif;
+  /* Mobile scroll smooth */
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-montserrat), Arial, sans-serif;
+}
+
+/* Mobile input zoom хасах — iOS 16px-аас бага font бол zoom хийдэг */
+input,
+select,
+textarea {
+  font-size: 16px;
+}
+
+/* Scroll bar нуух — mobile дээр гоё харагдана */
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+/* Button tap feedback */
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}

@@ -1,0 +1,101 @@
+id,keywords,template
+1,increase | methemoglobinemia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед метгемоглобинеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+2,increase | bleeding | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед цус алдах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+3,increase | excretion | rate,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ялгаралт нэмэгдэж, цусны ийлдэс дэх концентраци буурч, улмаар эмчилгээний үр нөлөө буурч болзошгүй.
+4,increase | therapeutic | efficacy,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} эмчилгээний үр нөлөө нэмэгдэж болзошгүй.
+5,increase | hypotensive | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} артерийн даралт бууруулах нөлөө нэмэгдэж болзошгүй.
+6,decrease | serum | concentration,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} цусны ийлдэс дэх концентраци буурч болзошгүй.
+7,increase | hypoglycemia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед гипогликеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+8,increase | hyperkalemia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед гиперкалиеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+9,increase | CNS | depression | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} төв мэдрэлийн тогтолцооны дарангуйллын нөлөө нэмэгдэж болзошгүй.
+10,increase | bleeding | hemorrhage | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед цус алдалт болон цус алдах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+11,increase | nephrotoxicity | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед бөөрний хордлого үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+12,decrease | absorption | concentration,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} шимэгдэлт буурч, цусны ийлдэс дэх концентраци болон эмчилгээний үр нөлөө буурч болзошгүй.
+13,increase | tachycardia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед тахикарди үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+14,increase | thrombogenic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} тромб үүсгэх нөлөө нэмэгдэж болзошгүй.
+15,increase | arrhythmogenic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} хэм алдагдал үүсгэх нөлөө нэмэгдэж болзошгүй.
+16,decrease | excretion,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ялгаралт буурч болзошгүй.
+17,increase | hyperglycemia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед гипергликеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+18,increase | gastrointestinal | irritation | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед хоол боловсруулах замын цочрол үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+19,increase | hypoglycemic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} цусан дахь сахарын хэмжээг бууруулах нөлөө нэмэгдэж болзошгүй.
+20,increase | serotonin | syndrome | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед серотонины хам шинж үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+21,increase | anticoagulant | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} цус шингэлэх нөлөө нэмэгдэж болзошгүй.
+22,increase | hyperkalemic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} гиперкалиеми үүсгэх нөлөө нэмэгдэж болзошгүй.
+23,increase | gastrointestinal | bleeding | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед хоол боловсруулах замын цус алдалт үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+24,increase | bradycardia | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} зүрхний цохилт удаашруулах нөлөө нэмэгдэж болзошгүй.
+25,increase | renal | failure | hypotension | hyperkalemia,{drugA} болон {drugB_accusative} хамт хэрэглэх үед бөөрний дутагдал, артерийн даралт буурах болон гиперкалиеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+26,increase | hypotension | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед артерийн даралт буурах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+27,increase | dehydration | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед шингэн алдалт үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+28,increase | hypokalemia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед гипокалиеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+29,increase | infection | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед халдвар үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+30,increase | myopathy | rhabdomyolysis | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед булчингийн эмгэг болон рабдомиолиз үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+31,increase | neuroexcitatory | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} мэдрэлийн хэт сэрэл үүсгэх нөлөө нэмэгдэж болзошгүй.
+32,increase | neurotoxic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} мэдрэлийн хордлогын нөлөө нэмэгдэж болзошгүй.
+33,increase | neuromuscular | blocking | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} мэдрэл-булчингийн хориглох нөлөө нэмэгдэж болзошгүй.
+34,decrease | hypoglycemic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} цусан дахь сахарын хэмжээг бууруулах нөлөө буурч болзошгүй.
+35,increase | orthostatic | hypotension | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ортостатик гипотензийн нөлөө нэмэгдэж болзошгүй.
+36,decrease | anticoagulant | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} цус шингэлэх нөлөө буурч болзошгүй.
+37,increase | sedative | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} тайвшруулах нөлөө нэмэгдэж болзошгүй.
+38,increase | thrombosis | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед тромбоз үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+39,increase | edema | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед хаван үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+40,decrease | sedative | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} тайвшруулах нөлөө буурч болзошгүй.
+41,increase | tendinopathy | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед шөрмөсний эмгэг үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+42,increase | immunosuppressive | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} дархлаа дарангуйлах нөлөө нэмэгдэж болзошгүй.
+43,increase | hypertensive | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} артерийн даралт ихэсгэх нөлөө нэмэгдэж болзошгүй.
+44,increase | angioedema | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед ангиоэдема үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+45,increase | vasoconstricting | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} судас агшаах нөлөө нэмэгдэж болзошгүй.
+46,increase | serotonergic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} серотонины идэвх нэмэгдэх боломжтой.
+47,increase | sedation | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед тайвшрах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+48,increase | hemorrhage | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед цус алдалт үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+49,increase | neuromuscular | blockade | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед мэдрэл-булчингийн хориг үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+50,increase | antihypertensive | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} артерийн даралт бууруулах нөлөө нэмэгдэж болзошгүй.
+51,decrease | protein | binding,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} уурагтай холбогдох чадвар буурч болзошгүй.
+52,increase | arrhythmia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед зүрхний хэм алдагдал үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+53,increase | bradycardia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед зүрхний цохилт удаашрах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+54,decrease | stimulatory | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} сэргээх нөлөө буурч болзошгүй.
+55,increase | QTc | prolongation | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} QT интервал уртасгах нөлөө нэмэгдэж болзошгүй.
+56,increase | hypotension | CNS | depression,{drugA} болон {drugB_accusative} хамт хэрэглэх үед артерийн даралт буурах болон төв мэдрэлийн тогтолцооны дарангуйллын эрсдэл нэмэгдэх боломжтой.
+57,increase | sedation | somnolence | CNS | depression,{drugA} болон {drugB_accusative} хамт хэрэглэх үед тайвшрах, нойрмоглох болон төв мэдрэлийн тогтолцооны дарангуйллын эрсдэл нэмэгдэх боломжтой.
+58,increase | myopathy | weakness | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед булчингийн сулрал болон эмгэг үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+59,increase | hypersensitivity | reaction,{drugA} болон {drugB_accusative} хамт хэрэглэх үед хэт мэдрэгшлийн урвал үүсэх эрсдэл нэмэгдэх боломжтой.
+60,increase | analgesic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} өвдөлт намдаах нөлөө нэмэгдэж болзошгүй.
+61,increase | orthostatic | hypotensive | antihypertensive | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ортостатик гипотензи, даралт буурах болон даралт бууруулах нөлөө нэмэгдэж болзошгүй.
+62,increase | neutropenia | thrombocytopenia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед нейтропени болон тромбоцитопени үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+63,increase | bioavailability | decrease | methemoglobinemia,{drugA} болон {drugB_accusative} хамт хэрэглэх үед метгемоглобинеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+64,decrease | bioavailability,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} биохүртээмж буурч болзошгүй.
+65,increase | electrolyte | imbalance | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед электролитийн тэнцвэр алдагдах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+66,increase | tachycardia | drowsiness | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед тахикарди болон нойрмоглох эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+67,increase | immunosuppression | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед дархлаа дарангуйлагдах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+68,increase | vasodilatory | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} судас өргөсгөх нөлөө нэмэгдэж болзошгүй.
+69,increase | bleeding | bruising | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед цус алдалт болон хөхрөлт үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+70,increase | anticholinergic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} антихолинерг нөлөө нэмэгдэж болзошгүй.
+71,increase | vasoconstricting | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} судас агшаах нөлөө нэмэгдэж болзошгүй.
+72,increase | nephrotoxic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} бөөрний хордлогын нөлөө нэмэгдэж болзошгүй.
+73,increase | antiplatelet | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} тромбоцитын эсрэг нөлөө нэмэгдэж болзошгүй.
+74,increase | nephrotoxicity | hypocalcemia | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед бөөрний хордлого болон гипокальциеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+75,increase | extrapyramidal | symptoms | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед экстрапирамид шинж тэмдэг үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+76,increase | metabolism | rifampicin,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} бодисын солилцоо нэмэгдэж болзошгүй.
+77,decrease | effectiveness | diagnostic,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} оношилгооны үр нөлөө буурч болзошгүй.
+78,increase | renal | failure | hypotension | hyperkalemia,{drugA} болон {drugB_accusative} хамт хэрэглэх үед бөөрний дутагдал, артерийн даралт буурах болон гиперкалиеми үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+79,increase | neuropsychiatric | effects | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед мэдрэлийн болон сэтгэцийн гаж нөлөө үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+80,increase | hypotension | sedation | somnolence | respiratory | depression,{drugA} болон {drugB_accusative} хамт хэрэглэх үед артерийн даралт буурах, тайвшрах, нойрмоглох болон амьсгалын дарангуйлал үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+81,increase | adverse | effects | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед гаж нөлөөний эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+82,increase | tachycardic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} тахикарди үүсгэх нөлөө нэмэгдэж болзошгүй.
+83,increase | renal | failure | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед бөөрний дутагдал үүсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+84,increase | myelosuppression | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед ясны чөмөг дарангуйлагдах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+85,increase | sedation | CNS | depression | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед тайвшрах болон төв мэдрэлийн тогтолцооны дарангуйллын эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+86,decrease | excretion | florbetapir,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ялгаралт буурч, цусны ийлдэс дэх концентраци нэмэгдэж болзошгүй.
+87,increase | CNS | depression | mebicar,{drugA} болон {drugB_accusative} хамт хэрэглэх үед төв мэдрэлийн тогтолцооны дарангуйллын эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+88,decrease | cardiotoxic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} зүрхэнд хортой нөлөө буурч болзошгүй.
+89,decrease | excretion | florbetaben,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ялгаралт буурч, цусны ийлдэс дэх концентраци нэмэгдэж болзошгүй.
+90,increase | hypokalemic | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} гипокалиеми үүсгэх нөлөө нэмэгдэж болзошгүй.
+91,decrease | excretion | rate,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} ялгаралт буурч, цусны ийлдэс дэх концентраци нэмэгдэж болзошгүй.
+92,increase | adverse | effects | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед гаж нөлөөний эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+93,decrease | metabolism,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} бодисын солилцоо буурч болзошгүй.
+94,increase | CNS | depression | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед төв мэдрэлийн тогтолцооны дарангуйллын эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+95,decrease | therapeutic | efficacy,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} эмчилгээний үр нөлөө буурч болзошгүй.
+96,increase | serum | concentration,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} цусны ийлдэс дэх концентраци нэмэгдэж болзошгүй.
+97,increase | metabolism,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} бодисын солилцоо нэмэгдэж болзошгүй.
+98,increase | QTc | prolongation | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед QT интервал уртсах эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+99,increase | hypertension | risk,{drugA} болон {drugB_accusative} хамт хэрэглэх үед артерийн даралт ихсэх эрсдэл эсвэл хүндийн зэрэг нэмэгдэх боломжтой.
+100,decrease | antihypertensive | activity,{drugA_comitative} хамт хэрэглэх үед {drugB_genitive} артерийн даралт бууруулах нөлөө буурч болзошгүй.
