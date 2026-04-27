@@ -37,8 +37,9 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${montserrat.variable} min-h-screen bg-white text-slate-900`}
       >
-        {/* <Header /> */}
+        <Header />
         <main className="mx-auto w-full">{children}</main>
+        <Footer />
       </body>
     </html>
   );
