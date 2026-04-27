@@ -1,6 +1,6 @@
 import "./globals.css";
 import { Inter, Montserrat } from "next/font/google";
-// import Header from "./(main)/_components/layout/Header";
+import Header from "./(main)/_components/layout/Header";
 
 const inter = Inter({
   subsets: ["latin", "cyrillic"],
