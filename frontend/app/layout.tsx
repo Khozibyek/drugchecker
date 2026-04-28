@@ -1,7 +1,6 @@
 import "./globals.css";
 import { Inter, Montserrat } from "next/font/google";
-import Header from "./(main)/_components/layout/Header";
-import Footer from "./(main)/_components/layout/Footer";
+// import Header from "./(main)/_components/layout/Header";
 
 const inter = Inter({
   subsets: ["latin", "cyrillic"],
@@ -35,10 +34,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="mn">
-      <body className={`${inter.variable} ${montserrat.variable} min-h-screen bg-white text-slate-900`}>
-        <Header />
+      <body
+        className={`${inter.variable} ${montserrat.variable} min-h-screen bg-white text-slate-900`}
+      >
+        {/* <Header /> */}
         <main className="mx-auto w-full">{children}</main>
-        <Footer />
       </body>
     </html>
   );
