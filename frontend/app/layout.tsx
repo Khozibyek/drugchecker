@@ -17,7 +17,7 @@ const montserrat = Montserrat({
 
 export const metadata = {
   title: "DrugChecker",
-  description: "description: "Эм, эмийн харилцан үйлчлэл шалгагч",",
+  description: "Эм, эмийн харилцан үйлчлэл шалгагч",
 };
 
 export const viewport = {
