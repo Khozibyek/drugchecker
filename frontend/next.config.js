@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/api/:path*",
-        destination: "https://jamison-skirtlike-cultivatedly.ngrok-free.dev/:path*",
+        destination: "https://drugchecker-production-8cc0.up.railway.app/:path*",
       },
     ];
   },
