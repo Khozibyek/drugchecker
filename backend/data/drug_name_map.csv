@@ -1,0 +1,511 @@
+﻿drug_id,mn_name,inn_name
+D01,Аспирин,Aspirin
+D02,Парацетамол,Paracetamol
+D03,Ибупрофен,Ibuprofen
+D04,Диклофенак,Diclofenac
+D05,Кеторолак,Ketorolac
+D06,Амоксициллин,Amoxicillin
+D07,Ампициллин,Ampicillin
+D08,Цефтриаксон,Ceftriaxone
+D09,Азитромицин,Azithromycin
+D10,Ципрофлоксацин,Ciprofloxacin
+D11,Левофлоксацин,Levofloxacin
+D12,Метронидазол,Metronidazole
+D13,Доксициклин,Doxycycline
+D14,Омепразол,Omeprazole
+D15,Пантопразол,Pantoprazole
+D16,Ранитидин,Ranitidine
+D17,Фамотидин,Famotidine
+D18,Домперидон,Domperidone
+D19,Метоклопрамид,Metoclopramide
+D20,Лоперамид,Loperamide
+D21,Эналаприл,Enalapril
+D22,Лозартан,Losartan
+D23,Амлодипин,Amlodipine
+D24,Бисопролол,Bisoprolol
+D25,Атенолол,Atenolol
+D26,Фуросемид,Furosemide
+D27,Спиронолактон,Spironolactone
+D28,Дигоксин,Digoxin
+D29,Гепарин,Heparin
+D30,Варфарин,Warfarin
+D31,Клопидогрел,Clopidogrel
+D32,Метформин,Metformin
+D33,Гликлазид,Gliclazide
+D34,Инсулин,Insulin
+D35,Лоратадин,Loratadine
+D36,Цетиризин,Cetirizine
+D37,Диазепам,Diazepam
+D38,Алпразолам,Alprazolam
+D39,Сертралин,Sertraline
+D40,Флуоксетин,Fluoxetine
+D41,Левотироксин,Levothyroxine
+D42,Преднизолон,Prednisolone
+D43,Дексаметазон,Dexamethasone
+D44,Гидрокортизон,Hydrocortisone
+D45,Аскорбины хүчил,Ascorbic acid
+D46,Витамин d,Cholecalciferol
+D47,Фолийн хүчил,Folic acid
+D48,Төмрийн сульфат,Iron sulfate
+D49,Клотримазол,Clotrimazole
+D50,Кетоконазол,Ketoconazole
+D51,Мупироцин,Mupirocin
+D52,Адреналин,Adrenaline
+D53,Атропин,Atropine
+D54,Лидокаин,Lidocaine
+D55,Магнийн сульфат,Magnesium sulfate
+D56,Кальцийн глюконат,Calcium gluconate
+D57,Аллопуринол,Allopurinol
+D58,Колхицин,Colchicine
+D59,Силденафил,Sildenafil
+D60,Тамсулозин,Tamsulosin
+D61,Финастерид,Finasteride
+D62,Ондансетрон,Ondansetron
+D63,Леводопа,Levodopa
+D64,Карбамазепин,Carbamazepine
+D65,Вальпроатын хүчил,Valproic acid
+D66,Габапентин,Gabapentin
+D67,Баклофен,Baclofen
+D68,Метотрексат,Methotrexate
+D69,Тамоксифен,Tamoxifen
+D70,Цайрын сульфат,Zinc sulfate
+D71,Натрийн хлорид,Sodium chloride
+D72,Глюкоз,Glucose
+D73,Идэвхжүүлсэн нүүрс,Activated charcoal
+D74,Ацикловир,Acyclovir
+D75,Осельтамивир,Oseltamivir
+D76,Флуконазол,Fluconazole
+D77,Итраконазол,Itraconazole
+D78,Тербинафин,Terbinafine
+D79,Нитроглицерин,Nitroglycerin
+D80,Изосорбид динитрат,Isosorbide dinitrate
+D81,Добутамин,Dobutamine
+D82,Адапален,Adapalene
+D83,Азатиоприн,Azathioprine
+D84,Азеластин,Azelastine
+D85,Албендазол,Albendazole
+D86,Аллилэстренол,Allylestrenol
+D87,Алмагат,Almagate
+D88,Алпростадил,Alprostadil
+D89,Алтеплаза,Alteplase
+D90,Альфакальцидол,Alfacalcidol
+D91,Амброксол,Ambroxol
+D92,Амилметакрезол,Amylmetacresol
+D93,Аминофиллин,Aminophylline
+D94,Амиодарон,Amiodarone
+D95,Амитриптилин,Amitriptyline
+D96,Анастрозол,Anastrozole
+D97,Апротинин,Aprotinin
+D98,Аргинин,Arginine
+D99,Арипипразол,Aripiprazole
+D100,Артеметер,Artemether
+D101,Артикаин,Articaine
+D102,Аторвастатин,Atorvastatin
+D103,Атосибан,Atosiban
+D104,Аттапулгит,Attapulgite
+D105,Ацеклофенак,Aceclofenac
+D106,Ацетазоламид,Acetazolamide
+D107,Ацетаминофен,Acetaminophen
+D108,Ацетилсалицилийн хүчил,Acetylsalicylic acid
+D109,Ацетилцистеин,Acetylcysteine
+D110,Барагшун,Shilajit
+D111,Беклометазон,Beclometasone
+D112,Бендазол,Bendazol
+D113,Бензатин бензилпенициллин,Benzathine benzylpenicillin
+D114,Бензидамин,Benzydamine
+D115,Бензилпенициллин,Benzylpenicillin
+D116,Бензокаин,Benzocaine
+D117,Бенфотиамин,Benfotiamine
+D118,Бетагистин,Betahistine
+D119,Бетаметазон,Betamethasone
+D120,Биластин,Bilastine
+D121,Биотин,Biotin
+D122,Бисакодил,Bisacodyl
+D123,Бринзоламид,Brinzolamide
+D124,Бромгексин,Bromhexine
+D125,Бромфенирамин,Brompheniramine
+D126,Будесонид,Budesonide
+D127,Бупивакаин,Bupivacaine
+D128,Бутамират,Butamirate
+D129,Валацикловир,Valaciclovir
+D130,Валсартан,Valsartan
+D131,Ванкомицин,Vancomycin
+D132,Вилдаглиптин,Vildagliptin
+D133,Винкристин,Vincristine
+D134,Винпоцетин,Vinpocetine
+D135,Витамин а,Vitamin a
+D136,Витамин в комплекс,Vitamin b complex
+D137,Воглибоза,Voglibose
+D138,Вориконазол,Voriconazole
+D139,Габапентин энакарбил,Gabapentin enacarbil
+D140,Гадобутрол,Gadobutrol
+D141,Галантамин,Galantamine
+D142,Галоперидол,Haloperidol
+D143,Гастродин,Gastrodin
+D144,Гатифлоксацин,Gatifloxacin
+D145,Гвайфенезин,Guaifenesin
+D146,Гемцитабин,Gemcitabine
+D147,Гентамицин,Gentamicin
+D148,Гепарин натрийн давс,Heparin sodium
+D149,Гиалуронидаз,Hyaluronidase
+D150,Гидралазин,Hydralazine
+D151,Гидроксизин,Hydroxyzine
+D152,Гидроксихлорохин,Hydroxychloroquine
+D153,Гидроталцит,Hydrotalcite
+D154,Гидрохлоротиазид,Hydrochlorothiazide
+D155,Гимекромон,Hymecromone
+D156,Гипромеллоз,Hypromellose
+D157,Гистидин,Histidine
+D158,Глибенкламид,Glibenclamide
+D159,Глимепирид,Glimepiride
+D160,Глицерин,Glycerin
+D161,Глицерол,Glycerol
+D162,Глицин,Glycine
+D163,Глутамин,Glutamine
+D164,Глутатион,Glutathione
+D165,Глюкагон,Glucagon
+D166,Глюкозамин,Glucosamine
+D167,Гозерелин,Goserelin
+D168,Гранисетрон,Granisetron
+D169,Дабрафениб,Dabrafenib
+D170,Дактиномицин,Dactinomycin
+D171,Дапаглифлозин,Dapagliflozin
+D172,Дапоксетин,Dapoxetine
+D173,Деготь,Coal tar
+D174,Дезлоратадин,Desloratadine
+D175,Дезогестрел,Desogestrel
+D176,Дексибупрофен,Dexibuprofen
+D177,Декскетопрофен,Dexketoprofen
+D178,Декскетопрофен трометамол,Dexketoprofen trometamol
+D179,Дексмедетомидин,Dexmedetomidine
+D180,Декспантенол,Dexpanthenol
+D181,Декстран,Dextran
+D182,Декстроз,Dextrose
+D183,Декстрометорфан,Dextromethorphan
+D184,Дексхлорфенирамин,Dexchlorpheniramine
+D185,Десмопрессин,Desmopressin
+D186,Деферазирокс,Deferasirox
+D187,Диастаз,Diastase
+D188,Дидрогестерон,Dydrogesterone
+D189,Диеногест,Dienogest
+D190,Диклофенак диэтиламин,Diclofenac diethylamine
+D191,Дилтиазем,Diltiazem
+D192,Дименгидринат,Dimenhydrinate
+D193,Диметинден,Dimetindene
+D194,Диосмин,Diosmin
+D195,Дипиридамол,Dipyridamole
+D196,Дисульфирам,Disulfiram
+D197,Дифенгидрамин,Diphenhydramine
+D198,Доксазозин,Doxazosin
+D199,Доксорубицин,Doxorubicin
+D200,Допамин,Dopamine
+D201,Дорзоламид,Dorzolamide
+D202,Дорипенем,Doripenem
+D203,Доцетаксел,Docetaxel
+D204,Дроперидол,Droperidol
+D205,Дроспиренон,Drospirenone
+D206,Дротаверин,Drotaverine
+D207,Дутастерид,Dutasteride
+D208,Зопиклон,Zopiclone
+D209,Зуклопентиксол,Zuclopenthixol
+D210,Ивабрадин,Ivabradine
+D211,Изолейцин,Isoleucine
+D212,Изониазид,Isoniazid
+D213,Изотретиноин,Isotretinoin
+D214,Изофлуран,Isoflurane
+D215,Илапразол,Ilaprazole
+D216,Имипенем,Imipenem
+D217,Индакатерол,Indacaterol
+D218,Индапамид,Indapamide
+D219,Индометацин,Indometacin
+D220,Инклизиран,Inclisiran
+D221,Инсулин аспарт,Insulin aspart
+D222,Инсулин гларгин,Insulin glargine
+D223,Инсулин деглудек,Insulin degludec
+D224,Инсулин детемир,Insulin detemir
+D225,Интерлейкин,Interleukin
+D226,Иод,Iodine
+D227,Иопамидол,Iopamidol
+D228,Ипидакрин,Ipidacrine
+D229,Ипратропийн бромид,Ipratropium bromide
+D230,Ирбесартан,Irbesartan
+D231,Иринотекан,Irinotecan
+D232,Итоприд,Itopride
+D233,Йобитридол,Iobitridol
+D234,Йогексол,Iohexol
+D235,Йодиксанол,Iodixanol
+D236,Йопромид,Iopromide
+D237,Каберголин,Cabergoline
+D238,Кагоцел,Kagocel
+D239,Калийн хлорид,Potassium chloride
+D240,Кальци ацетат,Calcium acetate
+D241,Кальцийн л-аспартат гидрат,Calcium l-aspartate hydrate
+D242,Кальцийн карбамид,Calcium carbamide
+D243,Кальцийн карбонат,Calcium carbonate
+D244,Кальцийн хлорид,Calcium chloride
+D245,Кальципотриол,Calcipotriol
+D246,Камостат,Camostat
+D247,Канамицин,Kanamycin
+D248,Капецитабин,Capecitabine
+D249,Каптоприл,Captopril
+D250,Карбетоцин,Carbetocin
+D251,Карбидопа,Carbidopa
+D252,Карбомер,Carbomer
+D253,Карбоцистеин,Carbocisteine
+D254,Карведилол,Carvedilol
+D255,Кветиапиний фумарат,Quetiapine fumarate
+D256,Кетамин,Ketamine
+D257,Кетопрофен,Ketoprofen
+D258,Кетотифен,Ketotifen
+D259,Кларитромицин,Clarithromycin
+D260,Клиндамицин,Clindamycin
+D261,Клобетазол,Clobetasol
+D262,Кломипрамин,Clomipramine
+D263,Кломифен,Clomifene
+D264,Клоназепам,Clonazepam
+D265,Клофазимин,Clofazimine
+D266,Кокарбоксилаза,Cocarboxylase
+D267,Конберцепт,Conbercept
+D268,Коргликон,Corglycon
+D269,Кортексин,Cortexin
+D270,Коффеин,Caffeine
+D271,Ксилометазолин,Xylometazoline
+D272,Кумарин,Coumarin
+D273,Л-ментол,L-menthol
+D274,Лактобацилл,Lactobacillus
+D275,Лактоз,Lactose
+D276,Лактулоз,Lactulose
+D277,Лансопразол,Lansoprazole
+D278,Латанопрост,Latanoprost
+D279,Леветирацетам,Levetiracetam
+D280,Леводропропизин,Levodropropizine
+D281,Левокарнитин,Levocarnitine
+D282,Левоментол,Levomenthol
+D283,Левомепромазин,Levomepromazine
+D284,Левоноргестрел,Levonorgestrel
+D285,Левотироксиний натри,Levothyroxine sodium
+D286,Левоцетиризин,Levocetirizine
+D287,Ледипасвир,Ledipasvir
+D288,Лейцин,Leucine
+D289,Летрозол,Letrozole
+D290,Леуковорин,Leucovorin
+D291,Лизиноприл,Lisinopril
+D292,Лизоцим,Lysozyme
+D293,Линезолид,Linezolid
+D294,Липаза,Lipase
+D295,Лираглутид,Liraglutide
+D296,Ловастатин,Lovastatin
+D297,Локсопрофен,Loxoprofen
+D298,Ломефлоксацин,Lomefloxacin
+D299,Магни,Magnesium
+D300,Магнийн аспартат,Magnesium aspartate
+D301,Магнийн гидроксид,Magnesium hydroxide
+D302,Магнийн лактат дигидрат,Magnesium lactate dihydrate
+D303,Магнийн оксид,Magnesium oxide
+D304,Макрогол,Macrogol
+D305,Мебендазол,Mebendazole
+D306,Мебикар,Mebicar
+D307,Меглюмин,Meglumine
+D308,Мекобаламин,Mecobalamin
+D309,Мелоксикам,Meloxicam
+D310,Мельдоний,Meldonium
+D311,Мемантин,Memantine
+D312,Мепивакаин,Mepivacaine
+D313,Меропенем,Meropenem
+D314,Месалазин,Mesalazine
+D315,Метизопринол,Metisoprinol
+D316,Метилдопа,Methyldopa
+D317,Метилпреднизолон,Methylprednisolone
+D318,Метилсалицилат,Methyl salicylate
+D319,Метилцеллюлоз,Methylcellulose
+D320,Метокарбамол,Methocarbamol
+D321,Метопролол тартрат,Metoprolol tartrate
+D322,Метформины глицинат,Metformin glycinate
+D323,Мефлохин,Mefloquine
+D324,Мидазолам,Midazolam
+D325,Мидекамицин,Midecamycin
+D326,Мизопростол,Misoprostol
+D327,Миконазол,Miconazole
+D328,Милринон,Milrinone
+D329,Миртазапин,Mirtazapine
+D330,Мифепристон,Mifepristone
+D331,Моксифлоксацин,Moxifloxacin
+D332,Мометазон,Mometasone
+D333,Монтелукаст,Montelukast
+D334,Морфин,Morphine
+D335,Мульти витамин минерал,Multivitamin and minerals
+D336,Мультиэнзим,Multienzyme
+D337,Н-пентоксениал,N-pentoxenial
+D338,Налбуфин,Nalbuphine
+D339,Налоксон,Naloxone
+D340,Налтрексон,Naltrexone
+D341,Наотонг,Naotong
+D342,Напроксен,Naproxen
+D343,Натамицин,Natamycin
+D344,Нафазолин,Naphazoline
+D345,Нафамостат,Nafamostat
+D346,Небиволол,Nebivolol
+D347,Неомицин,Neomycin
+D348,Никорандил,Nicorandil
+D349,Нимесулид,Nimesulide
+D350,Нимодипин,Nimodipine
+D351,Нистатин,Nystatin
+D352,Нитрофурантоин,Nitrofurantoin
+D353,Нифедипин,Nifedipine
+D354,Нифуроксазид,Nifuroxazide
+D355,Ницерголин,Nicergoline
+D356,Норфлоксацин,Norfloxacin
+D357,Норэпинефрин,Norepinephrine
+D358,Оксетазин,Oxetacaine
+D359,Оксиметазолин,Oxymetazoline
+D360,Окситоцин,Oxytocin
+D361,Октреотид,Octreotide
+D362,Оланзапин,Olanzapine
+D363,Олапариб,Olaparib
+D364,Орлистат,Orlistat
+D365,Орнидазол,Ornidazole
+D366,Офлоксацин,Ofloxacin
+D367,Пазопаниб,Pazopanib
+D368,Паклитаксел,Paclitaxel
+D369,Палбоциклиб,Palbociclib
+D370,Панкипсин,Pankipsin
+D371,Панкреатин,Pancreatin
+D372,Пантопразол натрийн сесквигидрат,Pantoprazole sodium sesquihydrate
+D373,Папаверин,Papaverine
+D374,Пароксетин,Paroxetine
+D375,Пелубипрофен,Pelubiprofen
+D376,Пеметрексед,Pemetrexed
+D377,Пентоксифиллин,Pentoxifylline
+D378,Пепсин,Pepsin
+D379,Периндоприл,Perindopril
+D380,Пилокарпин,Pilocarpine
+D381,Пиперациллин,Piperacillin
+D382,Пирантел,Pyrantel
+D383,Пирацетам,Piracetam
+D384,Пиридоксин,Pyridoxine
+D385,Пирфенидон,Pirfenidone
+D386,Повидон,Povidone
+D387,Поливитамин,Multivitamin
+D388,Полисорбат,Polysorbate
+D389,Прегабалин,Pregabalin
+D390,Предникарбат,Prednicarbate
+D391,Преноксдиазин,Prenoxdiazine
+D392,Прогестерон,Progesterone
+D393,Прокаин,Procaine
+D394,Прометазин,Promethazine
+D395,Пропаракаин,Proparacaine
+D396,Пропафенон,Propafenone
+D397,Пропофол,Propofol
+D398,Прохинолат,Proquazone
+D399,Прохлорперазин,Prochlorperazine
+D400,Рабепразол,Rabeprazole
+D401,Рамиприл,Ramipril
+D402,Ребамипид,Rebamipide
+D403,Ремдесивир,Remdesivir
+D404,Ретинол,Retinol
+D405,Рибофлавин,Riboflavin
+D406,Рибоциклиб,Ribociclib
+D407,Ривароксабан,Rivaroxaban
+D408,Ризатриптан,Rizatriptan
+D409,Рисдиплам,Risdiplam
+D410,Рисперидон,Risperidone
+D411,Рифамицин,Rifamycin
+D412,Рифампицин,Rifampicin
+D413,Рифапентин,Rifapentine
+D414,Розувастатин,Rosuvastatin
+D415,Рокситромицин,Roxithromycin
+D416,Ропивакаин,Ropivacaine
+D417,Рупатадин,Rupatadine
+D418,Сакубитрил,Sacubitril
+D419,Салициламид,Salicylamide
+D420,Салметерол,Salmeterol
+D421,Сальбутамол,Salbutamol
+D422,Сампрост,Samprost
+D423,Сармис,Sarmis
+D424,Севеламер,Sevelamer
+D425,Севофлуран,Sevoflurane
+D426,Сенносид,Sennoside
+D427,Сенносидс,Sennosides
+D428,Силимарин,Silymarin
+D429,Симетикон,Simeticone
+D430,Солифенацин,Solifenacin
+D431,Соматропин,Somatropin
+D432,Сорбитол,Sorbitol
+D433,Софосбувир,Sofosbuvir
+D434,Спектиномицин,Spectinomycin
+D435,Стрептодорназа,Streptodornase
+D436,Стрептокиназа,Streptokinase
+D437,Сукральфат,Sucralfate
+D438,Сульфаметоксазол,Sulfamethoxazole
+D439,Сульфаниламид,Sulfanilamide
+D440,Сульфасалазин,Sulfasalazine
+D441,Сульфацетамид,Sulfacetamide
+D442,Суматриптан,Sumatriptan
+D443,Суфентанил,Sufentanil
+D444,Тадалафил,Tadalafil
+D445,Тазобактам,Tazobactam
+D446,Такролимус,Tacrolimus
+D447,Таурин,Taurine
+D448,Тегафур,Tegafur
+D449,Тегопразан,Tegoprazan
+D450,Тейкопланин,Teicoplanin
+D451,Телмисартан,Telmisartan
+D452,Тенофовир алафенамид,Tenofovir alafenamide
+D453,Тербуталин,Terbutaline
+D454,Тернидазол,Ternidazole
+D455,Тетрациклин,Tetracycline
+D456,Тетризолин,Tetryzoline
+D457,Тиамазол,Thiamazole
+D458,Тиамин,Thiamine
+D459,Тикагрелор,Ticagrelor
+D460,Тилорон,Tilorone
+D461,Тималин,Thymalin
+D462,Тимолол,Timolol
+D463,Тимомодулин,Thymomodulin
+D464,Тинидазол,Tinidazole
+D465,Тиоколхикозид,Thiocolchicoside
+D466,Типепидин,Tipepidine
+D467,Тиротрицин,Tyrothricin
+D468,Тобрамицин,Tobramycin
+D469,Токоферол,Tocopherol
+D470,Толперизон,Tolperisone
+D471,Трамадолын гидрохлорид,Tramadol hydrochloride
+D472,Тримебутин,Trimebutine
+D473,Троксерутин,Troxerutin
+D474,Төмөр,Iron
+D475,Фексофенадин,Fexofenadine
+D476,Фенобарбитал,Phenobarbital
+D477,Фенофибрат,Fenofibrate
+D478,Фентанил,Fentanyl
+D479,Флубендазол,Flubendazole
+D480,Фосфомицин,Fosfomycin
+D481,Фрамицетин,Framycetin
+D482,Фурсултиамины гидрохлорид,Fursultiamine hydrochloride
+D483,Хлорфенирамин малеат,Chlorphenamine maleate
+D484,Хүний инсулин,Human insulin
+D485,Целекоксиб,Celecoxib
+D486,Цетиризиний дигидрохлорид,Cetirizine dihydrochloride
+D487,Цефазолин,Cefazolin
+D488,Цефалексин,Cefalexin
+D489,Цефепим,Cefepime
+D490,Цефиксим,Cefixime
+D491,Цефотаксим,Cefotaxime
+D492,Цефтазидим,Ceftazidime
+D493,Цефуроксим,Cefuroxime
+D494,Цефуроксимын аксетил,Cefuroxime axetil
+D495,Цианокобаламин,Cyanocobalamin
+D496,Циклоспорин,Ciclosporin
+D497,Циклофосфамид,Cyclophosphamide
+D498,Циластатин,Cilastatin
+D499,Цилостазол,Cilostazol
+D500,Циталопрам,Citalopram
+D501,Эзомепразол,Esomeprazole
+D502,Эмоксипин,Emoxypine
+D503,Эноксапарины натри,Enoxaparin sodium
+D504,Эпирубицин,Epirubicin
+D505,Эритромицин,Erythromycin
+D506,Эритропоетин,Erythropoietin
+D507,Эсциталопрам,Escitalopram
+D508,Этамбутол,Ethambutol
+D509,Эторикоксиб,Etoricoxib
+D510,Ацетазоламид,None
