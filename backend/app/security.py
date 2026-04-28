@@ -1,8 +1,4 @@
-def hash_password(password: str) -> str:
-    return pwd_context.hash(password[:72])
-
-def verify_password(plain: str, hashed: str) -> bool:
-    return pwd_context.verify(plain[:72], hashed)from fastapi import Depends, HTTPException
+from fastapi import Depends, HTTPException
 from fastapi.security import OAuth2PasswordBearer
 from datetime import datetime, timedelta, timezone
 from jose import jwt, JWTError
@@ -41,6 +37,7 @@ def get_current_user(token: Optional[str] = Depends(oauth2_scheme)) -> Optional[
         return payload.get("user_id")
     except JWTError:
         return None
+
 
 def get_required_user(token: Optional[str] = Depends(oauth2_scheme)) -> int:
     if not token:
