@@ -18,6 +18,9 @@ const montserrat = Montserrat({
 export const metadata = {
   title: "DrugChecker",
   description: "Эм, эмийн харилцан үйлчлэл шалгагч",
+  icons: {
+    icon: "/logo.png",
+  },
 };
 
 export const viewport = {
