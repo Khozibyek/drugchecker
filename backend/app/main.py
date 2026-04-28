@@ -19,13 +19,18 @@ app = FastAPI(lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=[
+        "http://localhost:3000",
+        "https://www.drugchecker.online",
+        "https://drugchecker.online",
+        "https://drugchecker-git-main-khozis-projects.vercel.app",
+        "https://drugchecker-2uwexyvfh-khozis-projects.vercel.app",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Router-ууд дараа
 app.include_router(interactions.router)
 app.include_router(auth.router)
 app.include_router(history.router)
