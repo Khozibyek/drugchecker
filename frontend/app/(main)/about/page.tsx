@@ -41,7 +41,7 @@ const aboutItems = [
   {
     icon: <User className="w-5 h-5" />,
     label: "Хөгжүүлэгч / холбоо",
-    value: "Хөгжүүлэгч: Khozybek. Холбоо барих мэдээллийг энд нэмж болно.",
+    value: "Хөгжүүлэгч: Khozybek.",
   },
   {
     icon: <Info className="w-5 h-5" />,
