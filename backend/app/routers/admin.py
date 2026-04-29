@@ -403,20 +403,17 @@ def delete_template(
 def get_data_interactions(
     q: str = "",
     limit: int = 100,
+    db: Session = Depends(get_db),
     admin_id: int = Depends(get_current_admin)
 ):
-    path = os.path.join(DATA_DIR, "drug_interactions.csv")
-    rows = []
-    count = 0
-    
-    with open(path, newline="", encoding="utf-8-sig") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if q and q.lower() not in row["drug_name"].lower():
-                continue
-            rows.append(row)
-            count += 1
-            if count >= limit:
-                break
-    
+    from sqlalchemy import text
+    query = "SELECT drugbank_id, drug_name, interacts_with_id, description FROM drug_interactions"
+    params = {}
+    if q:
+        query += " WHERE LOWER(drug_name) LIKE :q"
+        params["q"] = f"%{q.lower()}%"
+    query += " LIMIT :limit"
+    params["limit"] = limit
+    result = db.execute(text(query), params)
+    rows = [{"drugbank_id": r[0], "drug_name": r[1], "interacts_with_id": r[2], "description": r[3]} for r in result]
     return rows
