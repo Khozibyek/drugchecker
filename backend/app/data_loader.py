@@ -96,20 +96,20 @@ def load_csv() -> None:
         print("[WARN] DATABASE_URL байхгүй — interactions ачаалагдсангүй")
 
     DDINTER_SEVERITY = {}
-    ddinter_path = DATA_DIR / "severity_level.csv"
-    if ddinter_path.exists():
-        with ddinter_path.open("r", encoding="utf-8-sig", newline="") as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                a = _norm(row.get("Drug_A", ""))
-                b = _norm(row.get("Drug_B", ""))
-                level = (row.get("Level") or "").strip()
+    if DATABASE_URL:
+        engine = create_engine(DATABASE_URL)
+        with engine.connect() as conn:
+            result = conn.execute(text("SELECT drug_a, drug_b, level FROM severity_level"))
+            for row in result:
+                a = _norm(row[0])
+                b = _norm(row[1])
+                level = (row[2] or "").strip()
                 if a and b and level:
                     pair = tuple(sorted([a, b]))
                     DDINTER_SEVERITY[pair] = level
-        print(f"[INFO] DDinter ачаалагдлаа: {len(DDINTER_SEVERITY)} хосолбор")
+        print(f"[INFO] DDinter database-с ачаалагдлаа: {len(DDINTER_SEVERITY)} хосолбор")
     else:
-        print(f"[WARN] DDinter файл олдсонгүй: {ddinter_path}")
+        print("[WARN] DATABASE_URL байхгүй — DDinter ачаалагдсангүй")
 
 def get_mongolian_name_by_english_name(name: str) -> str:
     name_norm = _norm(name)
